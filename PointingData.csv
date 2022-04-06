@@ -1,0 +1,3241 @@
+﻿Subject,DSP_Trial,Top,Target,AbsoluError,Order
+605,dsp1_08,telescope,wheelbarrow,130.1,pre
+605,dsp1_05,mailbox,bookshelf,109.9,pre
+605,new_7,trashcan,stove,37.5,pre
+605,dsp1_07,telescope,trashcan,131.4,pre
+605,new_3,bookshelf,piano,93.7,pre
+605,dsp1_19,bookshelf,plant,61.7,pre
+605,dsp1_04,chair,trashcan,122.8,pre
+605,new_1,well,telescope,14.7,pre
+605,new_2,stove,wheelbarrow,0.7,pre
+605,dsp1_21,wheelbarrow,stove,17.3,pre
+605,dsp1_24,harp,telescope,149.0,pre
+605,dsp1_09,plant,well,136.4,pre
+605,dsp1_03,chair,piano,4.6,pre
+605,dsp1_16,piano,harp,14.1,pre
+605,dsp1_23,harp,plant,126.0,pre
+605,dsp1_02,well,picnic table,77.0,pre
+605,dsp1_17,trashcan,picnic table,73.6,pre
+605,dsp1_13,stove,chair,20.1,pre
+605,dsp1_11,picnic table,wheelbarrow,22.9,pre
+605,dsp1_10,plant,piano,167.0,pre
+605,dsp1_22,wheelbarrow,mailbox,160.0,pre
+605,new_4,picnic table,chair,143.9,pre
+605,dsp1_06,mailbox,harp,164.1,pre
+605,new_6,piano,trashcan,78.7,pre
+605,new_5,harp,mailbox,159.9,pre
+605,dsp1_18,trashcan,well,8.6,pre
+605,dsp1_14,stove,bookshelf,15.4,pre
+606,dsp1_11,picnic table,wheelbarrow,116.1,pre
+606,dsp1_21,wheelbarrow,stove,150.7,pre
+606,dsp1_02,well,picnic table,173.0,pre
+606,dsp1_07,telescope,trashcan,67.6,pre
+606,dsp1_16,piano,harp,90.1,pre
+606,dsp1_09,plant,well,25.4,pre
+606,dsp1_06,mailbox,harp,150.9,pre
+606,dsp1_08,telescope,wheelbarrow,44.1,pre
+606,dsp1_14,stove,bookshelf,24.4,pre
+606,dsp1_24,harp,telescope,62.0,pre
+606,dsp1_18,trashcan,well,47.6,pre
+606,new_4,picnic table,chair,17.1,pre
+606,dsp1_04,chair,trashcan,5.2,pre
+606,new_7,trashcan,stove,10.5,pre
+606,new_6,piano,trashcan,57.7,pre
+606,new_1,well,telescope,16.3,pre
+606,dsp1_22,wheelbarrow,mailbox,110.0,pre
+606,dsp1_13,stove,chair,14.1,pre
+606,dsp1_05,mailbox,bookshelf,19.9,pre
+606,new_3,bookshelf,piano,2.7,pre
+606,dsp1_23,harp,plant,138.0,pre
+606,new_2,stove,wheelbarrow,9.7,pre
+606,dsp1_10,plant,piano,141.0,pre
+606,dsp1_17,trashcan,picnic table,23.6,pre
+606,dsp1_19,bookshelf,plant,2.7,pre
+606,dsp1_03,chair,piano,84.6,pre
+606,new_5,harp,mailbox,30.1,pre
+607,dsp1_18,trashcan,well,145.4,pre
+607,dsp1_02,well,picnic table,173.0,pre
+607,dsp1_16,piano,harp,135.1,pre
+607,dsp1_14,stove,bookshelf,67.4,pre
+607,dsp1_04,chair,trashcan,70.8,pre
+607,dsp1_03,chair,piano,38.6,pre
+607,new_6,piano,trashcan,6.3,pre
+607,new_7,trashcan,stove,141.5,pre
+607,dsp1_17,trashcan,picnic table,150.6,pre
+607,dsp1_24,harp,telescope,131.0,pre
+607,dsp1_06,mailbox,harp,107.1,pre
+607,dsp1_09,plant,well,82.4,pre
+607,new_5,harp,mailbox,176.9,pre
+607,new_2,stove,wheelbarrow,122.3,pre
+607,dsp1_22,wheelbarrow,mailbox,100.0,pre
+607,dsp1_19,bookshelf,plant,121.7,pre
+607,dsp1_10,plant,piano,11.0,pre
+607,new_4,picnic table,chair,36.9,pre
+607,dsp1_13,stove,chair,51.9,pre
+607,dsp1_07,telescope,trashcan,25.4,pre
+607,new_3,bookshelf,piano,37.7,pre
+607,dsp1_08,telescope,wheelbarrow,104.1,pre
+607,new_1,well,telescope,110.3,pre
+607,dsp1_23,harp,plant,130.0,pre
+607,dsp1_11,picnic table,wheelbarrow,101.1,pre
+607,dsp1_05,mailbox,bookshelf,97.1,pre
+607,dsp1_21,wheelbarrow,stove,118.3,pre
+608,dsp1_11,picnic table,wheelbarrow,157.1,pre
+608,dsp1_10,plant,piano,109.0,pre
+608,dsp1_02,well,picnic table,107.0,pre
+608,new_5,harp,mailbox,77.1,pre
+608,dsp1_06,mailbox,harp,143.9,pre
+608,dsp1_24,harp,telescope,110.0,pre
+608,dsp1_14,stove,bookshelf,90.4,pre
+608,new_6,piano,trashcan,136.3,pre
+608,dsp1_17,trashcan,picnic table,164.4,pre
+608,dsp1_04,chair,trashcan,176.2,pre
+608,dsp1_05,mailbox,bookshelf,85.9,pre
+608,dsp1_08,telescope,wheelbarrow,99.9,pre
+608,dsp1_22,wheelbarrow,mailbox,69.0,pre
+608,dsp1_16,piano,harp,163.1,pre
+608,dsp1_21,wheelbarrow,stove,15.7,pre
+608,new_1,well,telescope,56.7,pre
+608,new_3,bookshelf,piano,23.7,pre
+608,dsp1_03,chair,piano,26.4,pre
+608,dsp1_07,telescope,trashcan,38.6,pre
+608,dsp1_09,plant,well,78.4,pre
+608,dsp1_13,stove,chair,162.9,pre
+608,new_2,stove,wheelbarrow,28.3,pre
+608,dsp1_18,trashcan,well,97.6,pre
+608,dsp1_23,harp,plant,164.0,pre
+608,new_4,picnic table,chair,97.1,pre
+608,new_7,trashcan,stove,160.5,pre
+608,dsp1_19,bookshelf,plant,71.3,pre
+609,dsp1_23,harp,plant,13.0,pre
+609,dsp1_24,harp,telescope,60.0,pre
+609,dsp1_08,telescope,wheelbarrow,18.9,pre
+609,dsp1_22,wheelbarrow,mailbox,43.0,pre
+609,dsp1_14,stove,bookshelf,20.4,pre
+609,dsp1_19,bookshelf,plant,3.3,pre
+609,dsp1_16,piano,harp,8.1,pre
+609,dsp1_11,picnic table,wheelbarrow,27.9,pre
+609,new_3,bookshelf,piano,0.7,pre
+609,new_7,trashcan,stove,11.5,pre
+609,dsp1_21,wheelbarrow,stove,4.7,pre
+609,new_2,stove,wheelbarrow,11.3,pre
+609,new_6,piano,trashcan,2.7,pre
+609,dsp1_07,telescope,trashcan,67.6,pre
+609,dsp1_17,trashcan,picnic table,1.6,pre
+609,new_5,harp,mailbox,55.1,pre
+609,dsp1_09,plant,well,93.4,pre
+609,new_4,picnic table,chair,41.1,pre
+609,dsp1_18,trashcan,well,10.6,pre
+609,dsp1_02,well,picnic table,3.0,pre
+609,dsp1_13,stove,chair,38.1,pre
+609,dsp1_10,plant,piano,124.0,pre
+609,dsp1_04,chair,trashcan,4.8,pre
+609,new_1,well,telescope,30.7,pre
+609,dsp1_06,mailbox,harp,56.1,pre
+609,dsp1_03,chair,piano,38.4,pre
+609,dsp1_05,mailbox,bookshelf,14.1,pre
+610,dsp1_13,stove,chair,21.1,pre
+610,dsp1_04,chair,trashcan,32.2,pre
+610,dsp1_03,chair,piano,8.6,pre
+610,new_7,trashcan,stove,32.5,pre
+610,dsp1_08,telescope,wheelbarrow,32.9,pre
+610,dsp1_18,trashcan,well,15.4,pre
+610,dsp1_09,plant,well,23.4,pre
+610,dsp1_06,mailbox,harp,170.9,pre
+610,new_2,stove,wheelbarrow,103.3,pre
+610,new_5,harp,mailbox,11.9,pre
+610,dsp1_02,well,picnic table,58.0,pre
+610,dsp1_11,picnic table,wheelbarrow,112.9,pre
+610,new_4,picnic table,chair,108.1,pre
+610,dsp1_16,piano,harp,11.1,pre
+610,new_1,well,telescope,14.7,pre
+610,dsp1_10,plant,piano,52.0,pre
+610,dsp1_14,stove,bookshelf,2.4,pre
+610,dsp1_21,wheelbarrow,stove,97.7,pre
+610,dsp1_05,mailbox,bookshelf,29.9,pre
+610,dsp1_07,telescope,trashcan,52.4,pre
+610,dsp1_17,trashcan,picnic table,15.6,pre
+610,dsp1_24,harp,telescope,156.0,pre
+610,new_6,piano,trashcan,21.3,pre
+610,dsp1_19,bookshelf,plant,40.7,pre
+610,dsp1_22,wheelbarrow,mailbox,66.0,pre
+610,new_3,bookshelf,piano,26.7,pre
+610,dsp1_23,harp,plant,147.0,pre
+611,new_6,piano,trashcan,7.7,pre
+611,dsp1_06,mailbox,harp,8.1,pre
+611,dsp1_22,wheelbarrow,mailbox,76.0,pre
+611,new_4,picnic table,chair,159.9,pre
+611,dsp1_17,trashcan,picnic table,10.4,pre
+611,new_3,bookshelf,piano,0.7,pre
+611,new_1,well,telescope,107.3,pre
+611,dsp1_13,stove,chair,60.9,pre
+611,dsp1_24,harp,telescope,64.0,pre
+611,dsp1_05,mailbox,bookshelf,93.1,pre
+611,dsp1_08,telescope,wheelbarrow,59.9,pre
+611,dsp1_11,picnic table,wheelbarrow,170.9,pre
+611,dsp1_23,harp,plant,91.0,pre
+611,dsp1_16,piano,harp,24.1,pre
+611,new_2,stove,wheelbarrow,97.3,pre
+611,dsp1_14,stove,bookshelf,136.6,pre
+611,dsp1_04,chair,trashcan,157.2,pre
+611,new_5,harp,mailbox,82.9,pre
+611,dsp1_03,chair,piano,29.4,pre
+611,dsp1_10,plant,piano,4.0,pre
+611,dsp1_09,plant,well,87.4,pre
+611,dsp1_02,well,picnic table,149.0,pre
+611,dsp1_18,trashcan,well,106.4,pre
+611,dsp1_21,wheelbarrow,stove,72.3,pre
+611,dsp1_07,telescope,trashcan,47.6,pre
+611,new_7,trashcan,stove,47.5,pre
+611,dsp1_19,bookshelf,plant,14.3,pre
+612,dsp1_11,picnic table,wheelbarrow,41.1,pre
+612,dsp1_16,piano,harp,40.9,pre
+612,dsp1_23,harp,plant,120.0,pre
+612,dsp1_10,plant,piano,174.0,pre
+612,dsp1_22,wheelbarrow,mailbox,54.0,pre
+612,new_4,picnic table,chair,100.1,pre
+612,dsp1_05,mailbox,bookshelf,9.9,pre
+612,dsp1_17,trashcan,picnic table,68.4,pre
+612,dsp1_24,harp,telescope,42.0,pre
+612,dsp1_02,well,picnic table,22.0,pre
+612,dsp1_13,stove,chair,15.1,pre
+612,new_5,harp,mailbox,85.1,pre
+612,dsp1_09,plant,well,93.4,pre
+612,new_2,stove,wheelbarrow,17.7,pre
+612,dsp1_08,telescope,wheelbarrow,77.9,pre
+612,dsp1_19,bookshelf,plant,50.7,pre
+612,dsp1_18,trashcan,well,79.4,pre
+612,dsp1_06,mailbox,harp,32.9,pre
+612,new_3,bookshelf,piano,4.7,pre
+612,new_7,trashcan,stove,19.5,pre
+612,dsp1_21,wheelbarrow,stove,4.7,pre
+612,new_1,well,telescope,48.3,pre
+612,dsp1_07,telescope,trashcan,66.6,pre
+612,dsp1_03,chair,piano,53.4,pre
+612,dsp1_14,stove,bookshelf,2.4,pre
+612,dsp1_04,chair,trashcan,38.2,pre
+612,new_6,piano,trashcan,13.7,pre
+613,dsp1_02,well,picnic table,100.0,pre
+613,dsp1_23,harp,plant,171.0,pre
+613,dsp1_08,telescope,wheelbarrow,99.9,pre
+613,dsp1_07,telescope,trashcan,58.6,pre
+613,new_6,piano,trashcan,88.7,pre
+613,new_4,picnic table,chair,157.1,pre
+613,dsp1_13,stove,chair,26.1,pre
+613,new_5,harp,mailbox,14.1,pre
+613,dsp1_21,wheelbarrow,stove,176.7,pre
+613,dsp1_22,wheelbarrow,mailbox,39.0,pre
+613,dsp1_03,chair,piano,96.4,pre
+613,dsp1_11,picnic table,wheelbarrow,39.1,pre
+613,new_1,well,telescope,53.7,pre
+613,dsp1_04,chair,trashcan,21.8,pre
+613,dsp1_18,trashcan,well,42.4,pre
+613,dsp1_05,mailbox,bookshelf,136.9,pre
+613,dsp1_14,stove,bookshelf,5.4,pre
+613,dsp1_10,plant,piano,116.0,pre
+613,dsp1_19,bookshelf,plant,19.3,pre
+613,dsp1_09,plant,well,82.4,pre
+613,new_7,trashcan,stove,72.5,pre
+613,dsp1_06,mailbox,harp,85.9,pre
+613,dsp1_17,trashcan,picnic table,47.4,pre
+613,dsp1_24,harp,telescope,111.0,pre
+613,new_3,bookshelf,piano,136.3,pre
+613,new_2,stove,wheelbarrow,7.3,pre
+613,dsp1_16,piano,harp,134.9,pre
+614,dsp1_23,harp,plant,16.0,pre
+614,dsp1_11,picnic table,wheelbarrow,30.1,pre
+614,dsp1_04,chair,trashcan,33.8,pre
+614,new_2,stove,wheelbarrow,17.7,pre
+614,dsp1_17,trashcan,picnic table,39.6,pre
+614,dsp1_06,mailbox,harp,4.1,pre
+614,new_4,picnic table,chair,23.9,pre
+614,dsp1_03,chair,piano,0.6,pre
+614,dsp1_18,trashcan,well,0.6,pre
+614,dsp1_14,stove,bookshelf,41.4,pre
+614,dsp1_08,telescope,wheelbarrow,31.9,pre
+614,new_7,trashcan,stove,15.5,pre
+614,dsp1_13,stove,chair,15.1,pre
+614,dsp1_02,well,picnic table,2.0,pre
+614,dsp1_16,piano,harp,2.9,pre
+614,new_5,harp,mailbox,15.9,pre
+614,dsp1_09,plant,well,36.4,pre
+614,dsp1_21,wheelbarrow,stove,7.7,pre
+614,dsp1_07,telescope,trashcan,23.6,pre
+614,new_3,bookshelf,piano,0.7,pre
+614,new_6,piano,trashcan,16.7,pre
+614,dsp1_10,plant,piano,6.0,pre
+614,new_1,well,telescope,6.3,pre
+614,dsp1_22,wheelbarrow,mailbox,16.0,pre
+614,dsp1_19,bookshelf,plant,44.7,pre
+614,dsp1_24,harp,telescope,1.0,pre
+614,dsp1_05,mailbox,bookshelf,27.9,pre
+615,dsp1_11,picnic table,wheelbarrow,109.9,pre
+615,dsp1_06,mailbox,harp,159.9,pre
+615,dsp1_09,plant,well,147.4,pre
+615,new_7,trashcan,stove,101.5,pre
+615,dsp1_04,chair,trashcan,123.8,pre
+615,dsp1_17,trashcan,picnic table,134.6,pre
+615,new_1,well,telescope,53.7,pre
+615,new_2,stove,wheelbarrow,7.7,pre
+615,dsp1_23,harp,plant,162.0,pre
+615,dsp1_16,piano,harp,136.1,pre
+615,new_5,harp,mailbox,87.1,pre
+615,dsp1_19,bookshelf,plant,30.7,pre
+615,new_4,picnic table,chair,113.9,pre
+615,dsp1_05,mailbox,bookshelf,153.1,pre
+615,new_3,bookshelf,piano,86.3,pre
+615,dsp1_22,wheelbarrow,mailbox,179.0,pre
+615,new_6,piano,trashcan,146.7,pre
+615,dsp1_18,trashcan,well,0.4,pre
+615,dsp1_02,well,picnic table,46.0,pre
+615,dsp1_13,stove,chair,19.9,pre
+615,dsp1_24,harp,telescope,128.0,pre
+615,dsp1_21,wheelbarrow,stove,133.7,pre
+615,dsp1_10,plant,piano,172.0,pre
+615,dsp1_07,telescope,trashcan,114.6,pre
+615,dsp1_14,stove,bookshelf,71.4,pre
+615,dsp1_08,telescope,wheelbarrow,96.9,pre
+615,dsp1_03,chair,piano,123.6,pre
+616,dsp1_06,mailbox,harp,179.9,pre
+616,dsp1_10,plant,piano,75.0,pre
+616,dsp1_11,picnic table,wheelbarrow,115.9,pre
+616,dsp1_17,trashcan,picnic table,99.4,pre
+616,dsp1_16,piano,harp,110.1,pre
+616,new_5,harp,mailbox,27.9,pre
+616,dsp1_22,wheelbarrow,mailbox,126.0,pre
+616,new_2,stove,wheelbarrow,12.7,pre
+616,dsp1_08,telescope,wheelbarrow,96.9,pre
+616,dsp1_05,mailbox,bookshelf,100.9,pre
+616,new_7,trashcan,stove,94.5,pre
+616,dsp1_18,trashcan,well,102.4,pre
+616,dsp1_24,harp,telescope,28.0,pre
+616,new_4,picnic table,chair,138.1,pre
+616,dsp1_14,stove,bookshelf,113.6,pre
+616,dsp1_19,bookshelf,plant,164.3,pre
+616,new_6,piano,trashcan,122.7,pre
+616,dsp1_03,chair,piano,108.4,pre
+616,new_1,well,telescope,147.7,pre
+616,dsp1_02,well,picnic table,85.0,pre
+616,dsp1_21,wheelbarrow,stove,158.3,pre
+616,dsp1_04,chair,trashcan,50.8,pre
+616,new_3,bookshelf,piano,44.7,pre
+616,dsp1_09,plant,well,48.6,pre
+616,dsp1_23,harp,plant,38.0,pre
+616,dsp1_13,stove,chair,45.9,pre
+616,dsp1_07,telescope,trashcan,125.6,pre
+617,dsp1_04,chair,trashcan,162.2,pre
+617,dsp1_22,wheelbarrow,mailbox,136.0,pre
+617,dsp1_10,plant,piano,35.0,pre
+617,dsp1_02,well,picnic table,180.0,pre
+617,dsp1_24,harp,telescope,113.0,pre
+617,dsp1_06,mailbox,harp,58.9,pre
+617,dsp1_09,plant,well,25.4,pre
+617,dsp1_13,stove,chair,14.1,pre
+617,new_6,piano,trashcan,5.7,pre
+617,dsp1_16,piano,harp,13.9,pre
+617,dsp1_11,picnic table,wheelbarrow,51.1,pre
+617,dsp1_19,bookshelf,plant,84.7,pre
+617,new_4,picnic table,chair,83.1,pre
+617,dsp1_08,telescope,wheelbarrow,28.1,pre
+617,new_5,harp,mailbox,70.1,pre
+617,dsp1_23,harp,plant,134.0,pre
+617,dsp1_03,chair,piano,11.6,pre
+617,dsp1_18,trashcan,well,58.4,pre
+617,dsp1_05,mailbox,bookshelf,54.9,pre
+617,new_1,well,telescope,157.7,pre
+617,dsp1_21,wheelbarrow,stove,142.7,pre
+617,new_2,stove,wheelbarrow,76.7,pre
+617,new_3,bookshelf,piano,156.3,pre
+617,dsp1_07,telescope,trashcan,34.6,pre
+617,dsp1_17,trashcan,picnic table,37.6,pre
+617,new_7,trashcan,stove,7.5,pre
+617,dsp1_14,stove,bookshelf,73.4,pre
+618,dsp1_18,trashcan,well,90.4,pre
+618,dsp1_11,picnic table,wheelbarrow,85.1,pre
+618,new_1,well,telescope,68.3,pre
+618,dsp1_08,telescope,wheelbarrow,63.9,pre
+618,dsp1_03,chair,piano,84.6,pre
+618,new_7,trashcan,stove,1.5,pre
+618,dsp1_22,wheelbarrow,mailbox,22.0,pre
+618,dsp1_13,stove,chair,77.1,pre
+618,dsp1_02,well,picnic table,28.0,pre
+618,dsp1_17,trashcan,picnic table,13.6,pre
+618,dsp1_21,wheelbarrow,stove,112.3,pre
+618,dsp1_19,bookshelf,plant,98.7,pre
+618,dsp1_24,harp,telescope,78.0,pre
+618,dsp1_10,plant,piano,137.0,pre
+618,dsp1_16,piano,harp,174.1,pre
+618,new_4,picnic table,chair,142.9,pre
+618,dsp1_09,plant,well,25.4,pre
+618,dsp1_07,telescope,trashcan,77.4,pre
+618,new_3,bookshelf,piano,58.3,pre
+618,new_5,harp,mailbox,54.1,pre
+618,dsp1_23,harp,plant,2.0,pre
+618,dsp1_05,mailbox,bookshelf,141.9,pre
+618,new_6,piano,trashcan,159.3,pre
+618,dsp1_04,chair,trashcan,157.8,pre
+618,dsp1_14,stove,bookshelf,67.6,pre
+618,dsp1_06,mailbox,harp,95.9,pre
+618,new_2,stove,wheelbarrow,4.3,pre
+619,dsp1_14,stove,bookshelf,2.4,pre
+619,dsp1_03,chair,piano,30.6,pre
+619,dsp1_16,piano,harp,12.9,pre
+619,dsp1_23,harp,plant,22.0,pre
+619,new_7,trashcan,stove,15.5,pre
+619,dsp1_05,mailbox,bookshelf,10.9,pre
+619,dsp1_19,bookshelf,plant,8.7,pre
+619,dsp1_24,harp,telescope,1.0,pre
+619,dsp1_18,trashcan,well,8.6,pre
+619,dsp1_22,wheelbarrow,mailbox,5.0,pre
+619,dsp1_10,plant,piano,1.0,pre
+619,dsp1_09,plant,well,22.4,pre
+619,new_4,picnic table,chair,20.9,pre
+619,new_2,stove,wheelbarrow,19.3,pre
+619,dsp1_02,well,picnic table,30.0,pre
+619,dsp1_07,telescope,trashcan,7.4,pre
+619,new_5,harp,mailbox,12.1,pre
+619,dsp1_06,mailbox,harp,6.1,pre
+619,dsp1_11,picnic table,wheelbarrow,12.9,pre
+619,new_3,bookshelf,piano,9.3,pre
+619,dsp1_17,trashcan,picnic table,12.6,pre
+619,dsp1_21,wheelbarrow,stove,20.3,pre
+619,dsp1_08,telescope,wheelbarrow,5.9,pre
+619,new_1,well,telescope,0.3,pre
+619,dsp1_04,chair,trashcan,21.8,pre
+619,dsp1_13,stove,chair,28.9,pre
+619,new_6,piano,trashcan,14.7,pre
+620,dsp1_05,mailbox,bookshelf,18.9,pre
+620,dsp1_23,harp,plant,171.0,pre
+620,dsp1_03,chair,piano,70.4,pre
+620,dsp1_02,well,picnic table,177.0,pre
+620,new_1,well,telescope,115.7,pre
+620,new_5,harp,mailbox,55.9,pre
+620,dsp1_04,chair,trashcan,10.8,pre
+620,new_6,piano,trashcan,11.3,pre
+620,new_7,trashcan,stove,18.5,pre
+620,new_3,bookshelf,piano,0.7,pre
+620,dsp1_16,piano,harp,36.1,pre
+620,dsp1_11,picnic table,wheelbarrow,85.1,pre
+620,dsp1_19,bookshelf,plant,32.7,pre
+620,dsp1_22,wheelbarrow,mailbox,88.0,pre
+620,dsp1_10,plant,piano,94.0,pre
+620,dsp1_21,wheelbarrow,stove,12.7,pre
+620,dsp1_24,harp,telescope,70.0,pre
+620,dsp1_09,plant,well,123.4,pre
+620,dsp1_14,stove,bookshelf,12.6,pre
+620,dsp1_08,telescope,wheelbarrow,158.9,pre
+620,dsp1_17,trashcan,picnic table,57.4,pre
+620,new_2,stove,wheelbarrow,10.3,pre
+620,dsp1_07,telescope,trashcan,169.4,pre
+620,new_4,picnic table,chair,106.1,pre
+620,dsp1_06,mailbox,harp,75.9,pre
+620,dsp1_13,stove,chair,42.9,pre
+620,dsp1_18,trashcan,well,64.4,pre
+621,dsp1_10,plant,piano,35.0,pre
+621,new_4,picnic table,chair,126.1,pre
+621,dsp1_04,chair,trashcan,158.8,pre
+621,dsp1_08,telescope,wheelbarrow,43.9,pre
+621,dsp1_19,bookshelf,plant,154.7,pre
+621,dsp1_06,mailbox,harp,74.9,pre
+621,dsp1_21,wheelbarrow,stove,173.3,pre
+621,dsp1_14,stove,bookshelf,19.6,pre
+621,dsp1_11,picnic table,wheelbarrow,102.1,pre
+621,new_7,trashcan,stove,7.5,pre
+621,new_5,harp,mailbox,39.1,pre
+621,dsp1_24,harp,telescope,122.0,pre
+621,dsp1_03,chair,piano,55.4,pre
+621,dsp1_22,wheelbarrow,mailbox,70.0,pre
+621,dsp1_09,plant,well,14.4,pre
+621,new_1,well,telescope,57.7,pre
+621,dsp1_16,piano,harp,46.9,pre
+621,dsp1_17,trashcan,picnic table,85.4,pre
+621,dsp1_13,stove,chair,29.9,pre
+621,new_6,piano,trashcan,6.3,pre
+621,new_3,bookshelf,piano,3.3,pre
+621,dsp1_23,harp,plant,168.0,pre
+621,dsp1_02,well,picnic table,35.0,pre
+621,new_2,stove,wheelbarrow,161.7,pre
+621,dsp1_18,trashcan,well,30.4,pre
+621,dsp1_07,telescope,trashcan,35.6,pre
+621,dsp1_05,mailbox,bookshelf,29.9,pre
+622,new_6,piano,trashcan,24.7,pre
+622,new_1,well,telescope,39.7,pre
+622,dsp1_11,picnic table,wheelbarrow,147.1,pre
+622,dsp1_10,plant,piano,20.0,pre
+622,dsp1_05,mailbox,bookshelf,168.9,pre
+622,dsp1_14,stove,bookshelf,44.6,pre
+622,dsp1_16,piano,harp,7.9,pre
+622,dsp1_21,wheelbarrow,stove,135.3,pre
+622,dsp1_04,chair,trashcan,92.8,pre
+622,dsp1_17,trashcan,picnic table,156.6,pre
+622,dsp1_08,telescope,wheelbarrow,165.9,pre
+622,dsp1_06,mailbox,harp,161.9,pre
+622,dsp1_19,bookshelf,plant,125.3,pre
+622,new_7,trashcan,stove,135.5,pre
+622,dsp1_24,harp,telescope,140.0,pre
+622,dsp1_02,well,picnic table,115.0,pre
+622,dsp1_09,plant,well,89.4,pre
+622,dsp1_03,chair,piano,15.6,pre
+622,dsp1_23,harp,plant,128.0,pre
+622,new_2,stove,wheelbarrow,61.3,pre
+622,dsp1_18,trashcan,well,129.6,pre
+622,new_5,harp,mailbox,83.1,pre
+622,new_4,picnic table,chair,88.1,pre
+622,dsp1_13,stove,chair,159.1,pre
+622,dsp1_07,telescope,trashcan,68.6,pre
+622,dsp1_22,wheelbarrow,mailbox,23.0,pre
+622,new_3,bookshelf,piano,42.7,pre
+623,new_3,bookshelf,piano,132.3,pre
+623,dsp1_02,well,picnic table,48.0,pre
+623,dsp1_17,trashcan,picnic table,166.6,pre
+623,dsp1_07,telescope,trashcan,113.6,pre
+623,dsp1_14,stove,bookshelf,37.4,pre
+623,new_5,harp,mailbox,56.1,pre
+623,dsp1_09,plant,well,78.4,pre
+623,dsp1_08,telescope,wheelbarrow,17.9,pre
+623,new_4,picnic table,chair,83.1,pre
+623,dsp1_11,picnic table,wheelbarrow,38.1,pre
+623,dsp1_18,trashcan,well,45.4,pre
+623,new_7,trashcan,stove,87.5,pre
+623,dsp1_21,wheelbarrow,stove,173.3,pre
+623,dsp1_22,wheelbarrow,mailbox,15.0,pre
+623,dsp1_10,plant,piano,35.0,pre
+623,dsp1_03,chair,piano,104.4,pre
+623,dsp1_04,chair,trashcan,32.8,pre
+623,dsp1_16,piano,harp,74.9,pre
+623,dsp1_05,mailbox,bookshelf,8.9,pre
+623,dsp1_23,harp,plant,153.0,pre
+623,dsp1_13,stove,chair,30.9,pre
+623,dsp1_06,mailbox,harp,24.1,pre
+623,new_2,stove,wheelbarrow,43.7,pre
+623,dsp1_19,bookshelf,plant,52.7,pre
+623,new_1,well,telescope,18.3,pre
+623,new_6,piano,trashcan,60.7,pre
+623,dsp1_24,harp,telescope,101.0,pre
+624,dsp1_24,harp,telescope,149.0,pre
+624,new_5,harp,mailbox,37.1,pre
+624,new_1,well,telescope,117.7,pre
+624,dsp1_11,picnic table,wheelbarrow,8.1,pre
+624,new_6,piano,trashcan,9.7,pre
+624,dsp1_07,telescope,trashcan,45.6,pre
+624,dsp1_02,well,picnic table,72.0,pre
+624,dsp1_03,chair,piano,29.4,pre
+624,dsp1_09,plant,well,60.4,pre
+624,dsp1_16,piano,harp,36.1,pre
+624,dsp1_19,bookshelf,plant,131.7,pre
+624,dsp1_08,telescope,wheelbarrow,23.9,pre
+624,new_4,picnic table,chair,57.9,pre
+624,dsp1_18,trashcan,well,6.4,pre
+624,dsp1_05,mailbox,bookshelf,59.1,pre
+624,new_3,bookshelf,piano,26.7,pre
+624,dsp1_17,trashcan,picnic table,22.4,pre
+624,dsp1_06,mailbox,harp,42.1,pre
+624,dsp1_22,wheelbarrow,mailbox,70.0,pre
+624,dsp1_23,harp,plant,25.0,pre
+624,dsp1_10,plant,piano,25.0,pre
+624,dsp1_14,stove,bookshelf,6.6,pre
+624,dsp1_21,wheelbarrow,stove,87.7,pre
+624,new_2,stove,wheelbarrow,28.3,pre
+624,dsp1_13,stove,chair,39.9,pre
+624,dsp1_04,chair,trashcan,50.2,pre
+624,new_7,trashcan,stove,4.5,pre
+625,new_1,well,telescope,149.7,pre
+625,dsp1_21,wheelbarrow,stove,162.3,pre
+625,dsp1_05,mailbox,bookshelf,102.9,pre
+625,dsp1_02,well,picnic table,41.0,pre
+625,dsp1_09,plant,well,105.4,pre
+625,dsp1_24,harp,telescope,141.0,pre
+625,new_6,piano,trashcan,132.3,pre
+625,dsp1_10,plant,piano,126.0,pre
+625,dsp1_07,telescope,trashcan,142.6,pre
+625,dsp1_08,telescope,wheelbarrow,160.1,pre
+625,new_4,picnic table,chair,172.9,pre
+625,dsp1_23,harp,plant,156.0,pre
+625,dsp1_13,stove,chair,60.1,pre
+625,new_3,bookshelf,piano,75.7,pre
+625,dsp1_18,trashcan,well,31.4,pre
+625,dsp1_14,stove,bookshelf,106.4,pre
+625,dsp1_04,chair,trashcan,132.8,pre
+625,dsp1_22,wheelbarrow,mailbox,74.0,pre
+625,dsp1_17,trashcan,picnic table,37.4,pre
+625,dsp1_06,mailbox,harp,73.9,pre
+625,dsp1_11,picnic table,wheelbarrow,167.1,pre
+625,new_5,harp,mailbox,89.1,pre
+625,dsp1_19,bookshelf,plant,168.7,pre
+625,dsp1_03,chair,piano,70.6,pre
+625,new_2,stove,wheelbarrow,67.7,pre
+625,new_7,trashcan,stove,23.5,pre
+625,dsp1_16,piano,harp,46.1,pre
+626,dsp1_16,piano,harp,10.9,pre
+626,new_4,picnic table,chair,70.9,pre
+626,dsp1_04,chair,trashcan,29.8,pre
+626,new_5,harp,mailbox,23.1,pre
+626,new_3,bookshelf,piano,0.7,pre
+626,new_6,piano,trashcan,3.3,pre
+626,dsp1_10,plant,piano,72.0,pre
+626,dsp1_23,harp,plant,146.0,pre
+626,dsp1_08,telescope,wheelbarrow,48.9,pre
+626,dsp1_22,wheelbarrow,mailbox,75.0,pre
+626,dsp1_13,stove,chair,3.9,pre
+626,dsp1_11,picnic table,wheelbarrow,43.1,pre
+626,dsp1_07,telescope,trashcan,172.4,pre
+626,dsp1_06,mailbox,harp,1.9,pre
+626,dsp1_02,well,picnic table,65.0,pre
+626,dsp1_18,trashcan,well,49.4,pre
+626,dsp1_03,chair,piano,53.6,pre
+626,dsp1_05,mailbox,bookshelf,5.9,pre
+626,dsp1_21,wheelbarrow,stove,15.3,pre
+626,new_1,well,telescope,58.7,pre
+626,new_2,stove,wheelbarrow,13.3,pre
+626,dsp1_17,trashcan,picnic table,48.6,pre
+626,new_7,trashcan,stove,40.5,pre
+626,dsp1_19,bookshelf,plant,43.7,pre
+626,dsp1_09,plant,well,96.4,pre
+626,dsp1_14,stove,bookshelf,5.4,pre
+626,dsp1_24,harp,telescope,69.0,pre
+627,dsp1_10,plant,piano,5.0,pre
+627,new_5,harp,mailbox,145.1,pre
+627,dsp1_18,trashcan,well,90.4,pre
+627,dsp1_23,harp,plant,17.0,pre
+627,dsp1_06,mailbox,harp,152.9,pre
+627,dsp1_09,plant,well,19.4,pre
+627,dsp1_16,piano,harp,179.9,pre
+627,dsp1_02,well,picnic table,178.0,pre
+627,dsp1_05,mailbox,bookshelf,86.9,pre
+627,new_2,stove,wheelbarrow,43.7,pre
+627,new_1,well,telescope,42.3,pre
+627,dsp1_04,chair,trashcan,8.2,pre
+627,dsp1_21,wheelbarrow,stove,61.7,pre
+627,dsp1_13,stove,chair,20.1,pre
+627,new_3,bookshelf,piano,145.3,pre
+627,dsp1_11,picnic table,wheelbarrow,162.9,pre
+627,dsp1_17,trashcan,picnic table,36.4,pre
+627,dsp1_08,telescope,wheelbarrow,110.1,pre
+627,dsp1_22,wheelbarrow,mailbox,128.0,pre
+627,new_6,piano,trashcan,95.7,pre
+627,new_7,trashcan,stove,26.5,pre
+627,dsp1_19,bookshelf,plant,50.7,pre
+627,dsp1_24,harp,telescope,129.0,pre
+627,dsp1_07,telescope,trashcan,56.6,pre
+627,dsp1_14,stove,bookshelf,33.4,pre
+627,dsp1_03,chair,piano,139.4,pre
+627,new_4,picnic table,chair,64.9,pre
+628,dsp1_02,well,picnic table,100.0,pre
+628,dsp1_03,chair,piano,132.4,pre
+628,new_1,well,telescope,15.7,pre
+628,dsp1_17,trashcan,picnic table,59.6,pre
+628,new_5,harp,mailbox,10.9,pre
+628,dsp1_21,wheelbarrow,stove,116.3,pre
+628,dsp1_07,telescope,trashcan,49.6,pre
+628,dsp1_08,telescope,wheelbarrow,100.9,pre
+628,dsp1_16,piano,harp,141.1,pre
+628,dsp1_09,plant,well,30.6,pre
+628,dsp1_05,mailbox,bookshelf,65.9,pre
+628,new_6,piano,trashcan,179.7,pre
+628,new_3,bookshelf,piano,91.7,pre
+628,dsp1_18,trashcan,well,170.6,pre
+628,dsp1_06,mailbox,harp,175.9,pre
+628,dsp1_24,harp,telescope,112.0,pre
+628,dsp1_13,stove,chair,9.1,pre
+628,new_7,trashcan,stove,102.5,pre
+628,dsp1_11,picnic table,wheelbarrow,105.1,pre
+628,dsp1_14,stove,bookshelf,5.4,pre
+628,new_4,picnic table,chair,29.9,pre
+628,new_2,stove,wheelbarrow,94.3,pre
+628,dsp1_19,bookshelf,plant,117.3,pre
+628,dsp1_10,plant,piano,172.0,pre
+628,dsp1_04,chair,trashcan,48.8,pre
+628,dsp1_23,harp,plant,13.0,pre
+628,dsp1_22,wheelbarrow,mailbox,140.0,pre
+629,new_4,picnic table,chair,17.9,pre
+629,dsp1_06,mailbox,harp,14.9,pre
+629,dsp1_07,telescope,trashcan,16.6,pre
+629,dsp1_22,wheelbarrow,mailbox,6.0,pre
+629,dsp1_18,trashcan,well,6.4,pre
+629,dsp1_17,trashcan,picnic table,11.6,pre
+629,dsp1_10,plant,piano,19.0,pre
+629,dsp1_04,chair,trashcan,1.8,pre
+629,dsp1_02,well,picnic table,9.0,pre
+629,dsp1_19,bookshelf,plant,10.7,pre
+629,dsp1_14,stove,bookshelf,17.4,pre
+629,dsp1_23,harp,plant,3.0,pre
+629,dsp1_09,plant,well,10.6,pre
+629,new_7,trashcan,stove,5.5,pre
+629,dsp1_11,picnic table,wheelbarrow,38.1,pre
+629,dsp1_08,telescope,wheelbarrow,2.9,pre
+629,new_5,harp,mailbox,35.1,pre
+629,dsp1_24,harp,telescope,7.0,pre
+629,dsp1_03,chair,piano,1.6,pre
+629,new_6,piano,trashcan,10.7,pre
+629,dsp1_16,piano,harp,8.9,pre
+629,new_3,bookshelf,piano,1.7,pre
+629,dsp1_21,wheelbarrow,stove,19.7,pre
+629,dsp1_13,stove,chair,4.1,pre
+629,dsp1_05,mailbox,bookshelf,15.1,pre
+629,new_1,well,telescope,3.3,pre
+629,new_2,stove,wheelbarrow,27.7,pre
+630,dsp1_21,wheelbarrow,stove,174.7,pre
+630,dsp1_17,trashcan,picnic table,111.6,pre
+630,new_2,stove,wheelbarrow,169.3,pre
+630,dsp1_03,chair,piano,87.4,pre
+630,new_4,picnic table,chair,156.9,pre
+630,dsp1_06,mailbox,harp,71.9,pre
+630,dsp1_11,picnic table,wheelbarrow,138.1,pre
+630,dsp1_08,telescope,wheelbarrow,86.9,pre
+630,new_6,piano,trashcan,5.7,pre
+630,dsp1_05,mailbox,bookshelf,59.9,pre
+630,dsp1_02,well,picnic table,103.0,pre
+630,dsp1_07,telescope,trashcan,57.4,pre
+630,dsp1_24,harp,telescope,137.0,pre
+630,new_7,trashcan,stove,152.5,pre
+630,new_3,bookshelf,piano,27.7,pre
+630,dsp1_23,harp,plant,149.0,pre
+630,dsp1_19,bookshelf,plant,107.3,pre
+630,dsp1_16,piano,harp,137.1,pre
+630,dsp1_09,plant,well,34.4,pre
+630,dsp1_10,plant,piano,96.0,pre
+630,dsp1_04,chair,trashcan,48.2,pre
+630,new_5,harp,mailbox,121.1,pre
+630,dsp1_18,trashcan,well,78.6,pre
+630,new_1,well,telescope,43.7,pre
+630,dsp1_14,stove,bookshelf,138.4,pre
+630,dsp1_13,stove,chair,105.1,pre
+630,dsp1_22,wheelbarrow,mailbox,79.0,pre
+631,dsp1_22,wheelbarrow,mailbox,12.0,pre
+631,new_1,well,telescope,147.7,pre
+631,dsp1_18,trashcan,well,57.4,pre
+631,dsp1_17,trashcan,picnic table,133.4,pre
+631,dsp1_04,chair,trashcan,158.2,pre
+631,dsp1_03,chair,piano,101.6,pre
+631,dsp1_13,stove,chair,20.1,pre
+631,dsp1_07,telescope,trashcan,175.6,pre
+631,dsp1_02,well,picnic table,34.0,pre
+631,dsp1_05,mailbox,bookshelf,125.9,pre
+631,dsp1_10,plant,piano,35.0,pre
+631,new_2,stove,wheelbarrow,8.3,pre
+631,new_4,picnic table,chair,89.1,pre
+631,dsp1_09,plant,well,147.4,pre
+631,new_3,bookshelf,piano,138.3,pre
+631,dsp1_08,telescope,wheelbarrow,153.1,pre
+631,new_6,piano,trashcan,177.3,pre
+631,dsp1_21,wheelbarrow,stove,66.3,pre
+631,new_5,harp,mailbox,107.1,pre
+631,dsp1_14,stove,bookshelf,41.4,pre
+631,dsp1_24,harp,telescope,127.0,pre
+631,dsp1_19,bookshelf,plant,45.3,pre
+631,dsp1_06,mailbox,harp,165.1,pre
+631,dsp1_16,piano,harp,139.1,pre
+631,new_7,trashcan,stove,81.5,pre
+631,dsp1_11,picnic table,wheelbarrow,138.1,pre
+631,dsp1_23,harp,plant,130.0,pre
+632,dsp1_11,picnic table,wheelbarrow,73.1,pre
+632,dsp1_10,plant,piano,9.0,pre
+632,dsp1_08,telescope,wheelbarrow,49.1,pre
+632,dsp1_14,stove,bookshelf,24.4,pre
+632,dsp1_18,trashcan,well,46.4,pre
+632,dsp1_02,well,picnic table,126.0,pre
+632,dsp1_22,wheelbarrow,mailbox,176.0,pre
+632,new_3,bookshelf,piano,49.7,pre
+632,new_6,piano,trashcan,158.3,pre
+632,dsp1_16,piano,harp,123.9,pre
+632,new_5,harp,mailbox,8.1,pre
+632,new_4,picnic table,chair,45.9,pre
+632,dsp1_13,stove,chair,158.1,pre
+632,dsp1_03,chair,piano,79.4,pre
+632,dsp1_09,plant,well,109.4,pre
+632,dsp1_21,wheelbarrow,stove,17.3,pre
+632,dsp1_17,trashcan,picnic table,31.4,pre
+632,new_2,stove,wheelbarrow,5.3,pre
+632,dsp1_05,mailbox,bookshelf,111.1,pre
+632,dsp1_06,mailbox,harp,163.9,pre
+632,dsp1_04,chair,trashcan,138.8,pre
+632,dsp1_19,bookshelf,plant,125.7,pre
+632,new_7,trashcan,stove,49.5,pre
+632,dsp1_24,harp,telescope,18.0,pre
+632,dsp1_07,telescope,trashcan,116.4,pre
+632,new_1,well,telescope,72.7,pre
+632,dsp1_23,harp,plant,142.0,pre
+633,dsp1_04,chair,trashcan,130.8,pre
+633,dsp1_16,piano,harp,102.1,pre
+633,dsp1_09,plant,well,98.6,pre
+633,dsp1_17,trashcan,picnic table,76.6,pre
+633,dsp1_06,mailbox,harp,96.9,pre
+633,new_4,picnic table,chair,161.9,pre
+633,dsp1_08,telescope,wheelbarrow,156.9,pre
+633,dsp1_10,plant,piano,0.0,pre
+633,new_3,bookshelf,piano,66.7,pre
+633,dsp1_03,chair,piano,62.6,pre
+633,new_7,trashcan,stove,68.5,pre
+633,new_6,piano,trashcan,19.7,pre
+633,dsp1_13,stove,chair,107.1,pre
+633,new_2,stove,wheelbarrow,8.3,pre
+633,dsp1_18,trashcan,well,18.4,pre
+633,dsp1_24,harp,telescope,176.0,pre
+633,dsp1_05,mailbox,bookshelf,177.1,pre
+633,dsp1_23,harp,plant,96.0,pre
+633,new_1,well,telescope,116.7,pre
+633,dsp1_21,wheelbarrow,stove,97.3,pre
+633,dsp1_19,bookshelf,plant,69.3,pre
+633,dsp1_22,wheelbarrow,mailbox,16.0,pre
+633,dsp1_11,picnic table,wheelbarrow,24.9,pre
+633,dsp1_14,stove,bookshelf,22.4,pre
+633,dsp1_02,well,picnic table,126.0,pre
+633,new_5,harp,mailbox,110.1,pre
+633,dsp1_07,telescope,trashcan,96.4,pre
+634,new_7,trashcan,stove,45.5,pre
+634,dsp1_16,piano,harp,127.1,pre
+634,dsp1_08,telescope,wheelbarrow,145.9,pre
+634,dsp1_02,well,picnic table,176.0,pre
+634,new_4,picnic table,chair,163.9,pre
+634,dsp1_23,harp,plant,142.0,pre
+634,dsp1_18,trashcan,well,62.6,pre
+634,dsp1_21,wheelbarrow,stove,175.3,pre
+634,dsp1_17,trashcan,picnic table,43.4,pre
+634,dsp1_14,stove,bookshelf,37.4,pre
+634,new_2,stove,wheelbarrow,83.3,pre
+634,dsp1_03,chair,piano,17.4,pre
+634,dsp1_10,plant,piano,180.0,pre
+634,dsp1_13,stove,chair,103.1,pre
+634,dsp1_06,mailbox,harp,178.9,pre
+634,dsp1_19,bookshelf,plant,48.3,pre
+634,new_6,piano,trashcan,96.3,pre
+634,dsp1_04,chair,trashcan,79.8,pre
+634,new_3,bookshelf,piano,147.7,pre
+634,dsp1_09,plant,well,12.4,pre
+634,dsp1_22,wheelbarrow,mailbox,121.0,pre
+634,dsp1_11,picnic table,wheelbarrow,152.1,pre
+634,dsp1_24,harp,telescope,129.0,pre
+634,dsp1_05,mailbox,bookshelf,138.1,pre
+634,new_1,well,telescope,116.7,pre
+634,dsp1_07,telescope,trashcan,67.4,pre
+634,new_5,harp,mailbox,69.9,pre
+635,new_6,piano,trashcan,18.7,pre
+635,dsp1_04,chair,trashcan,178.2,pre
+635,dsp1_08,telescope,wheelbarrow,179.9,pre
+635,dsp1_19,bookshelf,plant,140.7,pre
+635,dsp1_05,mailbox,bookshelf,12.9,pre
+635,new_7,trashcan,stove,68.5,pre
+635,dsp1_22,wheelbarrow,mailbox,1.0,pre
+635,dsp1_17,trashcan,picnic table,8.6,pre
+635,dsp1_16,piano,harp,117.9,pre
+635,dsp1_24,harp,telescope,52.0,pre
+635,new_2,stove,wheelbarrow,76.7,pre
+635,dsp1_13,stove,chair,6.9,pre
+635,dsp1_09,plant,well,96.6,pre
+635,dsp1_14,stove,bookshelf,44.4,pre
+635,dsp1_23,harp,plant,157.0,pre
+635,dsp1_03,chair,piano,25.4,pre
+635,new_1,well,telescope,13.3,pre
+635,new_4,picnic table,chair,66.9,pre
+635,dsp1_18,trashcan,well,59.4,pre
+635,dsp1_02,well,picnic table,94.0,pre
+635,dsp1_06,mailbox,harp,26.1,pre
+635,dsp1_21,wheelbarrow,stove,178.3,pre
+635,dsp1_11,picnic table,wheelbarrow,65.1,pre
+635,new_3,bookshelf,piano,0.7,pre
+635,new_5,harp,mailbox,34.1,pre
+635,dsp1_10,plant,piano,79.0,pre
+635,dsp1_07,telescope,trashcan,78.6,pre
+636,dsp1_17,trashcan,picnic table,35.6,pre
+636,dsp1_21,wheelbarrow,stove,131.3,pre
+636,dsp1_19,bookshelf,plant,38.7,pre
+636,dsp1_16,piano,harp,23.1,pre
+636,dsp1_02,well,picnic table,165.0,pre
+636,dsp1_22,wheelbarrow,mailbox,118.0,pre
+636,dsp1_11,picnic table,wheelbarrow,88.1,pre
+636,new_4,picnic table,chair,175.9,pre
+636,dsp1_08,telescope,wheelbarrow,143.9,pre
+636,new_7,trashcan,stove,61.5,pre
+636,dsp1_13,stove,chair,80.1,pre
+636,dsp1_04,chair,trashcan,163.8,pre
+636,new_1,well,telescope,138.3,pre
+636,dsp1_05,mailbox,bookshelf,152.9,pre
+636,dsp1_24,harp,telescope,162.0,pre
+636,dsp1_07,telescope,trashcan,10.6,pre
+636,new_3,bookshelf,piano,0.3,pre
+636,new_2,stove,wheelbarrow,23.3,pre
+636,new_6,piano,trashcan,6.7,pre
+636,dsp1_10,plant,piano,53.0,pre
+636,dsp1_09,plant,well,78.4,pre
+636,new_5,harp,mailbox,120.1,pre
+636,dsp1_14,stove,bookshelf,32.6,pre
+636,dsp1_06,mailbox,harp,154.9,pre
+636,dsp1_03,chair,piano,52.6,pre
+636,dsp1_18,trashcan,well,58.4,pre
+636,dsp1_23,harp,plant,157.0,pre
+637,dsp1_07,telescope,trashcan,86.4,pre
+637,dsp1_03,chair,piano,95.4,pre
+637,new_1,well,telescope,11.7,pre
+637,dsp1_16,piano,harp,98.9,pre
+637,dsp1_23,harp,plant,21.0,pre
+637,dsp1_18,trashcan,well,21.6,pre
+637,new_7,trashcan,stove,36.5,pre
+637,dsp1_19,bookshelf,plant,83.7,pre
+637,dsp1_05,mailbox,bookshelf,104.9,pre
+637,dsp1_04,chair,trashcan,51.8,pre
+637,new_2,stove,wheelbarrow,3.3,pre
+637,new_6,piano,trashcan,19.7,pre
+637,new_5,harp,mailbox,108.9,pre
+637,dsp1_13,stove,chair,6.9,pre
+637,dsp1_06,mailbox,harp,5.9,pre
+637,new_3,bookshelf,piano,0.7,pre
+637,dsp1_22,wheelbarrow,mailbox,144.0,pre
+637,dsp1_24,harp,telescope,137.0,pre
+637,new_4,picnic table,chair,150.9,pre
+637,dsp1_09,plant,well,86.4,pre
+637,dsp1_10,plant,piano,37.0,pre
+637,dsp1_17,trashcan,picnic table,53.6,pre
+637,dsp1_14,stove,bookshelf,27.4,pre
+637,dsp1_08,telescope,wheelbarrow,168.1,pre
+637,dsp1_21,wheelbarrow,stove,125.7,pre
+637,dsp1_11,picnic table,wheelbarrow,167.1,pre
+637,dsp1_02,well,picnic table,109.0,pre
+638,new_7,trashcan,stove,54.5,pre
+638,dsp1_09,plant,well,29.4,pre
+638,dsp1_11,picnic table,wheelbarrow,21.1,pre
+638,new_2,stove,wheelbarrow,2.7,pre
+638,dsp1_03,chair,piano,66.4,pre
+638,new_1,well,telescope,57.7,pre
+638,dsp1_19,bookshelf,plant,167.7,pre
+638,dsp1_16,piano,harp,53.1,pre
+638,dsp1_22,wheelbarrow,mailbox,127.0,pre
+638,dsp1_18,trashcan,well,64.6,pre
+638,new_5,harp,mailbox,115.1,pre
+638,dsp1_21,wheelbarrow,stove,85.3,pre
+638,dsp1_07,telescope,trashcan,98.4,pre
+638,dsp1_23,harp,plant,46.0,pre
+638,new_6,piano,trashcan,169.7,pre
+638,dsp1_10,plant,piano,114.0,pre
+638,dsp1_24,harp,telescope,52.0,pre
+638,dsp1_05,mailbox,bookshelf,59.9,pre
+638,dsp1_02,well,picnic table,80.0,pre
+638,dsp1_08,telescope,wheelbarrow,41.9,pre
+638,dsp1_13,stove,chair,1.9,pre
+638,dsp1_06,mailbox,harp,4.1,pre
+638,new_4,picnic table,chair,141.1,pre
+638,dsp1_14,stove,bookshelf,85.6,pre
+638,dsp1_17,trashcan,picnic table,146.6,pre
+638,dsp1_04,chair,trashcan,144.8,pre
+638,new_3,bookshelf,piano,116.7,pre
+639,dsp1_08,telescope,wheelbarrow,85.9,pre
+639,dsp1_03,chair,piano,94.4,pre
+639,dsp1_16,piano,harp,47.1,pre
+639,dsp1_19,bookshelf,plant,71.7,pre
+639,dsp1_10,plant,piano,178.0,pre
+639,dsp1_11,picnic table,wheelbarrow,169.1,pre
+639,dsp1_05,mailbox,bookshelf,47.9,pre
+639,dsp1_22,wheelbarrow,mailbox,36.0,pre
+639,dsp1_18,trashcan,well,7.4,pre
+639,dsp1_14,stove,bookshelf,88.4,pre
+639,new_2,stove,wheelbarrow,151.3,pre
+639,dsp1_21,wheelbarrow,stove,122.3,pre
+639,dsp1_23,harp,plant,148.0,pre
+639,dsp1_07,telescope,trashcan,48.4,pre
+639,dsp1_06,mailbox,harp,142.1,pre
+639,new_6,piano,trashcan,114.7,pre
+639,dsp1_04,chair,trashcan,129.2,pre
+639,new_4,picnic table,chair,9.9,pre
+639,dsp1_17,trashcan,picnic table,23.4,pre
+639,dsp1_09,plant,well,109.4,pre
+639,new_5,harp,mailbox,17.1,pre
+639,dsp1_24,harp,telescope,41.0,pre
+639,dsp1_02,well,picnic table,168.0,pre
+639,new_1,well,telescope,35.3,pre
+639,new_3,bookshelf,piano,87.3,pre
+639,new_7,trashcan,stove,94.5,pre
+639,dsp1_13,stove,chair,57.1,pre
+640,dsp1_13,stove,chair,14.1,pre
+640,new_7,trashcan,stove,65.5,pre
+640,dsp1_09,plant,well,35.4,pre
+640,dsp1_03,chair,piano,75.6,pre
+640,dsp1_11,picnic table,wheelbarrow,90.1,pre
+640,dsp1_04,chair,trashcan,93.2,pre
+640,new_2,stove,wheelbarrow,93.3,pre
+640,dsp1_22,wheelbarrow,mailbox,155.0,pre
+640,dsp1_17,trashcan,picnic table,1.6,pre
+640,new_3,bookshelf,piano,4.7,pre
+640,new_1,well,telescope,71.3,pre
+640,dsp1_16,piano,harp,163.1,pre
+640,dsp1_14,stove,bookshelf,95.6,pre
+640,dsp1_06,mailbox,harp,169.1,pre
+640,dsp1_21,wheelbarrow,stove,78.7,pre
+640,new_6,piano,trashcan,17.3,pre
+640,dsp1_10,plant,piano,5.0,pre
+640,dsp1_08,telescope,wheelbarrow,112.9,pre
+640,dsp1_23,harp,plant,72.0,pre
+640,dsp1_24,harp,telescope,64.0,pre
+640,dsp1_05,mailbox,bookshelf,30.9,pre
+640,dsp1_07,telescope,trashcan,46.4,pre
+640,dsp1_02,well,picnic table,155.0,pre
+640,new_5,harp,mailbox,98.9,pre
+640,dsp1_19,bookshelf,plant,152.7,pre
+640,dsp1_18,trashcan,well,177.6,pre
+640,new_4,picnic table,chair,22.1,pre
+641,dsp1_10,plant,piano,35.0,pre
+641,dsp1_13,stove,chair,22.1,pre
+641,new_1,well,telescope,73.7,pre
+641,dsp1_09,plant,well,94.4,pre
+641,dsp1_22,wheelbarrow,mailbox,41.0,pre
+641,dsp1_18,trashcan,well,46.4,pre
+641,dsp1_02,well,picnic table,27.0,pre
+641,new_2,stove,wheelbarrow,39.3,pre
+641,dsp1_08,telescope,wheelbarrow,39.9,pre
+641,dsp1_11,picnic table,wheelbarrow,119.1,pre
+641,dsp1_05,mailbox,bookshelf,16.1,pre
+641,dsp1_04,chair,trashcan,21.8,pre
+641,dsp1_24,harp,telescope,133.0,pre
+641,dsp1_19,bookshelf,plant,24.3,pre
+641,dsp1_21,wheelbarrow,stove,35.3,pre
+641,new_3,bookshelf,piano,2.7,pre
+641,new_6,piano,trashcan,43.3,pre
+641,dsp1_23,harp,plant,14.0,pre
+641,new_5,harp,mailbox,19.1,pre
+641,dsp1_17,trashcan,picnic table,0.6,pre
+641,dsp1_06,mailbox,harp,25.9,pre
+641,dsp1_03,chair,piano,36.6,pre
+641,new_7,trashcan,stove,2.5,pre
+641,dsp1_07,telescope,trashcan,80.6,pre
+641,dsp1_16,piano,harp,19.1,pre
+641,dsp1_14,stove,bookshelf,3.6,pre
+641,new_4,picnic table,chair,140.9,pre
+642,dsp1_18,trashcan,well,121.4,pre
+642,dsp1_13,stove,chair,3.1,pre
+642,dsp1_22,wheelbarrow,mailbox,114.0,pre
+642,new_3,bookshelf,piano,26.3,pre
+642,dsp1_09,plant,well,101.4,pre
+642,new_5,harp,mailbox,77.1,pre
+642,dsp1_16,piano,harp,145.9,pre
+642,new_2,stove,wheelbarrow,21.3,pre
+642,dsp1_24,harp,telescope,158.0,pre
+642,dsp1_19,bookshelf,plant,98.7,pre
+642,dsp1_14,stove,bookshelf,15.4,pre
+642,dsp1_02,well,picnic table,173.0,pre
+642,dsp1_21,wheelbarrow,stove,138.3,pre
+642,dsp1_10,plant,piano,23.0,pre
+642,dsp1_05,mailbox,bookshelf,0.9,pre
+642,dsp1_03,chair,piano,135.6,pre
+642,new_4,picnic table,chair,84.9,pre
+642,dsp1_08,telescope,wheelbarrow,63.9,pre
+642,new_1,well,telescope,81.7,pre
+642,dsp1_23,harp,plant,121.0,pre
+642,dsp1_07,telescope,trashcan,178.6,pre
+642,dsp1_17,trashcan,picnic table,36.6,pre
+642,dsp1_06,mailbox,harp,38.9,pre
+642,new_6,piano,trashcan,4.7,pre
+642,new_7,trashcan,stove,27.5,pre
+642,dsp1_04,chair,trashcan,109.2,pre
+642,dsp1_11,picnic table,wheelbarrow,80.1,pre
+643,dsp1_02,well,picnic table,141.0,pre
+643,dsp1_19,bookshelf,plant,37.3,pre
+643,dsp1_18,trashcan,well,65.4,pre
+643,dsp1_07,telescope,trashcan,157.4,pre
+643,new_7,trashcan,stove,74.5,pre
+643,dsp1_14,stove,bookshelf,68.6,pre
+643,dsp1_11,picnic table,wheelbarrow,115.9,pre
+643,new_4,picnic table,chair,178.9,pre
+643,new_3,bookshelf,piano,100.7,pre
+643,dsp1_16,piano,harp,140.9,pre
+643,dsp1_24,harp,telescope,177.0,pre
+643,dsp1_13,stove,chair,30.9,pre
+643,dsp1_22,wheelbarrow,mailbox,147.0,pre
+643,dsp1_08,telescope,wheelbarrow,156.9,pre
+643,dsp1_04,chair,trashcan,91.2,pre
+643,dsp1_21,wheelbarrow,stove,31.7,pre
+643,dsp1_09,plant,well,151.4,pre
+643,dsp1_03,chair,piano,94.4,pre
+643,dsp1_23,harp,plant,39.0,pre
+643,new_5,harp,mailbox,116.1,pre
+643,dsp1_06,mailbox,harp,171.9,pre
+643,dsp1_05,mailbox,bookshelf,12.9,pre
+643,dsp1_10,plant,piano,141.0,pre
+643,new_6,piano,trashcan,101.7,pre
+643,new_2,stove,wheelbarrow,159.3,pre
+643,new_1,well,telescope,16.7,pre
+643,dsp1_17,trashcan,picnic table,126.6,pre
+645,dsp1_17,trashcan,picnic table,69.6,pre
+645,dsp1_05,mailbox,bookshelf,5.9,pre
+645,dsp1_13,stove,chair,50.9,pre
+645,dsp1_04,chair,trashcan,153.2,pre
+645,dsp1_08,telescope,wheelbarrow,132.9,pre
+645,dsp1_07,telescope,trashcan,72.6,pre
+645,new_1,well,telescope,40.3,pre
+645,dsp1_19,bookshelf,plant,162.7,pre
+645,new_6,piano,trashcan,86.7,pre
+645,dsp1_22,wheelbarrow,mailbox,94.0,pre
+645,dsp1_23,harp,plant,19.0,pre
+645,dsp1_14,stove,bookshelf,150.6,pre
+645,dsp1_09,plant,well,177.4,pre
+645,dsp1_10,plant,piano,173.0,pre
+645,new_2,stove,wheelbarrow,140.3,pre
+645,dsp1_11,picnic table,wheelbarrow,85.1,pre
+645,dsp1_03,chair,piano,97.4,pre
+645,new_3,bookshelf,piano,63.3,pre
+645,dsp1_21,wheelbarrow,stove,0.7,pre
+645,dsp1_02,well,picnic table,2.0,pre
+645,new_5,harp,mailbox,170.1,pre
+645,dsp1_18,trashcan,well,125.4,pre
+645,new_4,picnic table,chair,24.1,pre
+645,dsp1_16,piano,harp,86.1,pre
+645,new_7,trashcan,stove,141.5,pre
+645,dsp1_24,harp,telescope,113.0,pre
+645,dsp1_06,mailbox,harp,17.9,pre
+646,dsp1_11,picnic table,wheelbarrow,127.1,pre
+646,dsp1_09,plant,well,30.4,pre
+646,dsp1_04,chair,trashcan,134.8,pre
+646,dsp1_23,harp,plant,84.0,pre
+646,dsp1_08,telescope,wheelbarrow,55.9,pre
+646,new_3,bookshelf,piano,0.7,pre
+646,new_1,well,telescope,11.3,pre
+646,new_4,picnic table,chair,21.9,pre
+646,dsp1_02,well,picnic table,25.0,pre
+646,dsp1_06,mailbox,harp,20.1,pre
+646,dsp1_24,harp,telescope,27.0,pre
+646,dsp1_22,wheelbarrow,mailbox,101.0,pre
+646,dsp1_05,mailbox,bookshelf,7.1,pre
+646,new_5,harp,mailbox,66.9,pre
+646,new_2,stove,wheelbarrow,4.3,pre
+646,new_6,piano,trashcan,21.7,pre
+646,dsp1_10,plant,piano,34.0,pre
+646,dsp1_14,stove,bookshelf,0.6,pre
+646,dsp1_18,trashcan,well,15.6,pre
+646,dsp1_03,chair,piano,37.4,pre
+646,dsp1_17,trashcan,picnic table,14.4,pre
+646,dsp1_16,piano,harp,9.1,pre
+646,dsp1_19,bookshelf,plant,64.7,pre
+646,dsp1_13,stove,chair,22.9,pre
+646,dsp1_07,telescope,trashcan,38.6,pre
+646,new_7,trashcan,stove,32.5,pre
+646,dsp1_21,wheelbarrow,stove,59.3,pre
+647,new_4,picnic table,chair,81.9,pre
+647,dsp1_10,plant,piano,124.0,pre
+647,new_7,trashcan,stove,6.5,pre
+647,dsp1_06,mailbox,harp,150.1,pre
+647,dsp1_02,well,picnic table,88.0,pre
+647,dsp1_17,trashcan,picnic table,44.6,pre
+647,dsp1_11,picnic table,wheelbarrow,179.9,pre
+647,dsp1_08,telescope,wheelbarrow,39.1,pre
+647,dsp1_18,trashcan,well,99.6,pre
+647,dsp1_14,stove,bookshelf,45.4,pre
+647,dsp1_03,chair,piano,176.6,pre
+647,new_3,bookshelf,piano,0.7,pre
+647,dsp1_13,stove,chair,172.9,pre
+647,dsp1_24,harp,telescope,171.0,pre
+647,dsp1_23,harp,plant,72.0,pre
+647,dsp1_22,wheelbarrow,mailbox,82.0,pre
+647,dsp1_05,mailbox,bookshelf,49.9,pre
+647,new_2,stove,wheelbarrow,2.3,pre
+647,dsp1_16,piano,harp,1.1,pre
+647,dsp1_19,bookshelf,plant,9.7,pre
+647,dsp1_04,chair,trashcan,128.8,pre
+647,new_6,piano,trashcan,6.3,pre
+647,dsp1_09,plant,well,19.4,pre
+647,dsp1_07,telescope,trashcan,48.6,pre
+647,dsp1_21,wheelbarrow,stove,142.3,pre
+647,new_1,well,telescope,99.7,pre
+647,new_5,harp,mailbox,24.1,pre
+648,dsp1_18,trashcan,well,9.6,pre
+648,new_2,stove,wheelbarrow,19.7,pre
+648,new_5,harp,mailbox,35.1,pre
+648,dsp1_21,wheelbarrow,stove,28.3,pre
+648,dsp1_02,well,picnic table,35.0,pre
+648,dsp1_11,picnic table,wheelbarrow,58.9,pre
+648,dsp1_07,telescope,trashcan,24.6,pre
+648,new_3,bookshelf,piano,26.3,pre
+648,dsp1_23,harp,plant,33.0,pre
+648,new_7,trashcan,stove,5.5,pre
+648,dsp1_17,trashcan,picnic table,0.4,pre
+648,new_4,picnic table,chair,29.1,pre
+648,new_6,piano,trashcan,30.7,pre
+648,dsp1_13,stove,chair,5.1,pre
+648,dsp1_10,plant,piano,21.0,pre
+648,dsp1_03,chair,piano,174.6,pre
+648,dsp1_09,plant,well,17.4,pre
+648,dsp1_14,stove,bookshelf,8.4,pre
+648,new_1,well,telescope,5.3,pre
+648,dsp1_08,telescope,wheelbarrow,167.1,pre
+648,dsp1_05,mailbox,bookshelf,22.1,pre
+648,dsp1_16,piano,harp,2.9,pre
+648,dsp1_06,mailbox,harp,34.1,pre
+648,dsp1_19,bookshelf,plant,14.7,pre
+648,dsp1_24,harp,telescope,7.0,pre
+648,dsp1_22,wheelbarrow,mailbox,12.0,pre
+648,dsp1_04,chair,trashcan,3.8,pre
+649,dsp1_18,trashcan,well,38.4,pre
+649,dsp1_24,harp,telescope,150.0,pre
+649,dsp1_09,plant,well,97.6,pre
+649,dsp1_04,chair,trashcan,175.2,pre
+649,new_6,piano,trashcan,22.7,pre
+649,dsp1_19,bookshelf,plant,109.3,pre
+649,dsp1_11,picnic table,wheelbarrow,79.1,pre
+649,dsp1_14,stove,bookshelf,23.6,pre
+649,dsp1_17,trashcan,picnic table,84.4,pre
+649,new_5,harp,mailbox,66.9,pre
+649,new_4,picnic table,chair,179.9,pre
+649,dsp1_23,harp,plant,158.0,pre
+649,dsp1_22,wheelbarrow,mailbox,9.0,pre
+649,dsp1_10,plant,piano,27.0,pre
+649,new_1,well,telescope,42.3,pre
+649,dsp1_06,mailbox,harp,12.1,pre
+649,dsp1_16,piano,harp,81.1,pre
+649,dsp1_21,wheelbarrow,stove,163.7,pre
+649,dsp1_02,well,picnic table,105.0,pre
+649,dsp1_08,telescope,wheelbarrow,96.9,pre
+649,dsp1_03,chair,piano,80.4,pre
+649,new_3,bookshelf,piano,129.7,pre
+649,new_7,trashcan,stove,12.5,pre
+649,dsp1_07,telescope,trashcan,94.4,pre
+649,dsp1_13,stove,chair,32.1,pre
+649,new_2,stove,wheelbarrow,86.3,pre
+649,dsp1_05,mailbox,bookshelf,148.9,pre
+650,new_5,harp,mailbox,79.1,pre
+650,dsp1_03,chair,piano,45.4,pre
+650,dsp1_14,stove,bookshelf,13.6,pre
+650,dsp1_21,wheelbarrow,stove,64.7,pre
+650,new_7,trashcan,stove,43.5,pre
+650,dsp1_06,mailbox,harp,9.1,pre
+650,dsp1_13,stove,chair,57.1,pre
+650,dsp1_18,trashcan,well,134.4,pre
+650,dsp1_16,piano,harp,17.9,pre
+650,dsp1_11,picnic table,wheelbarrow,77.1,pre
+650,dsp1_19,bookshelf,plant,53.7,pre
+650,dsp1_09,plant,well,161.6,pre
+650,new_2,stove,wheelbarrow,28.3,pre
+650,dsp1_08,telescope,wheelbarrow,149.9,pre
+650,dsp1_23,harp,plant,40.0,pre
+650,new_6,piano,trashcan,90.7,pre
+650,new_3,bookshelf,piano,88.7,pre
+650,dsp1_04,chair,trashcan,33.8,pre
+650,dsp1_24,harp,telescope,48.0,pre
+650,dsp1_05,mailbox,bookshelf,7.9,pre
+650,dsp1_02,well,picnic table,18.0,pre
+650,new_4,picnic table,chair,97.9,pre
+650,dsp1_17,trashcan,picnic table,49.6,pre
+650,dsp1_07,telescope,trashcan,31.6,pre
+650,new_1,well,telescope,13.3,pre
+650,dsp1_10,plant,piano,7.0,pre
+650,dsp1_22,wheelbarrow,mailbox,152.0,pre
+651,new_5,harp,mailbox,1.9,pre
+651,dsp1_08,telescope,wheelbarrow,141.9,pre
+651,dsp1_07,telescope,trashcan,8.4,pre
+651,dsp1_13,stove,chair,17.1,pre
+651,new_4,picnic table,chair,46.9,pre
+651,dsp1_06,mailbox,harp,136.9,pre
+651,dsp1_24,harp,telescope,16.0,pre
+651,dsp1_14,stove,bookshelf,45.6,pre
+651,dsp1_16,piano,harp,149.9,pre
+651,dsp1_21,wheelbarrow,stove,160.3,pre
+651,new_2,stove,wheelbarrow,104.3,pre
+651,new_1,well,telescope,140.7,pre
+651,dsp1_09,plant,well,102.4,pre
+651,dsp1_04,chair,trashcan,120.2,pre
+651,new_6,piano,trashcan,13.7,pre
+651,new_3,bookshelf,piano,122.3,pre
+651,dsp1_22,wheelbarrow,mailbox,169.0,pre
+651,dsp1_02,well,picnic table,68.0,pre
+651,new_7,trashcan,stove,30.5,pre
+651,dsp1_11,picnic table,wheelbarrow,98.1,pre
+651,dsp1_17,trashcan,picnic table,58.6,pre
+651,dsp1_19,bookshelf,plant,135.7,pre
+651,dsp1_18,trashcan,well,88.4,pre
+651,dsp1_23,harp,plant,153.0,pre
+651,dsp1_05,mailbox,bookshelf,7.9,pre
+651,dsp1_10,plant,piano,96.0,pre
+651,dsp1_03,chair,piano,93.4,pre
+653,dsp1_19,bookshelf,plant,137.3,pre
+653,dsp1_18,trashcan,well,49.6,pre
+653,new_5,harp,mailbox,165.9,pre
+653,new_2,stove,wheelbarrow,1.3,pre
+653,new_7,trashcan,stove,32.5,pre
+653,dsp1_24,harp,telescope,125.0,pre
+653,dsp1_10,plant,piano,81.0,pre
+653,dsp1_14,stove,bookshelf,53.6,pre
+653,new_3,bookshelf,piano,47.7,pre
+653,dsp1_21,wheelbarrow,stove,172.7,pre
+653,dsp1_11,picnic table,wheelbarrow,87.1,pre
+653,dsp1_06,mailbox,harp,9.1,pre
+653,dsp1_16,piano,harp,47.9,pre
+653,new_6,piano,trashcan,2.3,pre
+653,dsp1_04,chair,trashcan,64.2,pre
+653,dsp1_03,chair,piano,53.4,pre
+653,dsp1_02,well,picnic table,9.0,pre
+653,dsp1_17,trashcan,picnic table,53.6,pre
+653,dsp1_23,harp,plant,117.0,pre
+653,new_1,well,telescope,59.7,pre
+653,dsp1_05,mailbox,bookshelf,0.1,pre
+653,dsp1_13,stove,chair,162.9,pre
+653,dsp1_08,telescope,wheelbarrow,53.9,pre
+653,dsp1_22,wheelbarrow,mailbox,167.0,pre
+653,new_4,picnic table,chair,112.9,pre
+653,dsp1_07,telescope,trashcan,15.4,pre
+653,dsp1_09,plant,well,19.4,pre
+656,dsp1_05,mailbox,bookshelf,32.9,pre
+656,dsp1_24,harp,telescope,10.0,pre
+656,dsp1_02,well,picnic table,76.0,pre
+656,dsp1_07,telescope,trashcan,132.4,pre
+656,dsp1_03,chair,piano,58.4,pre
+656,new_3,bookshelf,piano,65.7,pre
+656,new_6,piano,trashcan,31.3,pre
+656,new_5,harp,mailbox,110.1,pre
+656,dsp1_17,trashcan,picnic table,47.6,pre
+656,dsp1_23,harp,plant,154.0,pre
+656,dsp1_22,wheelbarrow,mailbox,30.0,pre
+656,new_7,trashcan,stove,143.5,pre
+656,dsp1_09,plant,well,98.4,pre
+656,new_1,well,telescope,60.7,pre
+656,dsp1_18,trashcan,well,12.6,pre
+656,dsp1_04,chair,trashcan,177.8,pre
+656,dsp1_10,plant,piano,14.0,pre
+656,dsp1_11,picnic table,wheelbarrow,176.1,pre
+656,dsp1_16,piano,harp,158.9,pre
+656,dsp1_21,wheelbarrow,stove,136.3,pre
+656,dsp1_13,stove,chair,0.1,pre
+656,dsp1_14,stove,bookshelf,107.6,pre
+656,new_2,stove,wheelbarrow,11.3,pre
+656,dsp1_06,mailbox,harp,55.9,pre
+656,new_4,picnic table,chair,0.9,pre
+656,dsp1_19,bookshelf,plant,152.3,pre
+656,dsp1_08,telescope,wheelbarrow,152.9,pre
+657,dsp1_11,picnic table,wheelbarrow,63.1,pre
+657,dsp1_17,trashcan,picnic table,74.4,pre
+657,dsp1_14,stove,bookshelf,54.4,pre
+657,dsp1_07,telescope,trashcan,83.4,pre
+657,dsp1_09,plant,well,5.4,pre
+657,new_7,trashcan,stove,7.5,pre
+657,dsp1_19,bookshelf,plant,8.7,pre
+657,dsp1_04,chair,trashcan,157.8,pre
+657,new_6,piano,trashcan,138.7,pre
+657,dsp1_21,wheelbarrow,stove,141.3,pre
+657,dsp1_18,trashcan,well,167.4,pre
+657,new_1,well,telescope,74.3,pre
+657,dsp1_10,plant,piano,147.0,pre
+657,new_3,bookshelf,piano,0.7,pre
+657,dsp1_22,wheelbarrow,mailbox,141.0,pre
+657,dsp1_13,stove,chair,30.9,pre
+657,dsp1_03,chair,piano,93.4,pre
+657,dsp1_16,piano,harp,88.9,pre
+657,new_5,harp,mailbox,33.9,pre
+657,dsp1_08,telescope,wheelbarrow,101.9,pre
+657,dsp1_02,well,picnic table,45.0,pre
+657,dsp1_06,mailbox,harp,68.9,pre
+657,dsp1_23,harp,plant,1.0,pre
+657,new_4,picnic table,chair,142.1,pre
+657,dsp1_05,mailbox,bookshelf,38.9,pre
+657,dsp1_24,harp,telescope,55.0,pre
+657,new_2,stove,wheelbarrow,152.3,pre
+658,dsp1_06,mailbox,harp,14.9,pre
+658,new_2,stove,wheelbarrow,9.7,pre
+658,dsp1_11,picnic table,wheelbarrow,113.9,pre
+658,dsp1_19,bookshelf,plant,63.7,pre
+658,dsp1_23,harp,plant,139.0,pre
+658,dsp1_16,piano,harp,129.1,pre
+658,dsp1_14,stove,bookshelf,70.6,pre
+658,dsp1_09,plant,well,95.4,pre
+658,dsp1_03,chair,piano,52.6,pre
+658,new_3,bookshelf,piano,32.7,pre
+658,dsp1_22,wheelbarrow,mailbox,177.0,pre
+658,dsp1_04,chair,trashcan,121.8,pre
+658,dsp1_02,well,picnic table,76.0,pre
+658,new_6,piano,trashcan,5.7,pre
+658,dsp1_10,plant,piano,33.0,pre
+658,dsp1_18,trashcan,well,39.6,pre
+658,dsp1_05,mailbox,bookshelf,94.9,pre
+658,new_4,picnic table,chair,126.1,pre
+658,dsp1_21,wheelbarrow,stove,101.3,pre
+658,dsp1_08,telescope,wheelbarrow,157.9,pre
+658,new_5,harp,mailbox,101.1,pre
+658,new_7,trashcan,stove,41.5,pre
+658,dsp1_13,stove,chair,29.1,pre
+658,new_1,well,telescope,72.7,pre
+658,dsp1_24,harp,telescope,143.0,pre
+658,dsp1_07,telescope,trashcan,129.4,pre
+658,dsp1_17,trashcan,picnic table,82.4,pre
+660,dsp1_10,plant,piano,179.0,pre
+660,new_4,picnic table,chair,158.9,pre
+660,dsp1_21,wheelbarrow,stove,87.7,pre
+660,new_3,bookshelf,piano,9.3,pre
+660,new_1,well,telescope,21.7,pre
+660,dsp1_18,trashcan,well,44.6,pre
+660,new_7,trashcan,stove,37.5,pre
+660,dsp1_06,mailbox,harp,16.9,pre
+660,dsp1_11,picnic table,wheelbarrow,172.9,pre
+660,dsp1_23,harp,plant,30.0,pre
+660,dsp1_17,trashcan,picnic table,67.6,pre
+660,dsp1_16,piano,harp,68.1,pre
+660,dsp1_22,wheelbarrow,mailbox,95.0,pre
+660,dsp1_13,stove,chair,19.1,pre
+660,dsp1_07,telescope,trashcan,157.4,pre
+660,new_2,stove,wheelbarrow,78.7,pre
+660,dsp1_02,well,picnic table,18.0,pre
+660,dsp1_03,chair,piano,24.6,pre
+660,dsp1_08,telescope,wheelbarrow,121.1,pre
+660,dsp1_09,plant,well,162.6,pre
+660,new_6,piano,trashcan,7.7,pre
+660,dsp1_19,bookshelf,plant,123.7,pre
+660,dsp1_05,mailbox,bookshelf,1.9,pre
+660,dsp1_24,harp,telescope,51.0,pre
+660,new_5,harp,mailbox,41.9,pre
+660,dsp1_04,chair,trashcan,16.8,pre
+660,dsp1_14,stove,bookshelf,4.4,pre
+662,dsp1_16,piano,harp,62.1,pre
+662,new_3,bookshelf,piano,50.7,pre
+662,dsp1_09,plant,well,177.4,pre
+662,dsp1_11,picnic table,wheelbarrow,148.1,pre
+662,dsp1_19,bookshelf,plant,45.7,pre
+662,dsp1_08,telescope,wheelbarrow,159.9,pre
+662,new_6,piano,trashcan,10.3,pre
+662,dsp1_04,chair,trashcan,171.8,pre
+662,new_4,picnic table,chair,18.9,pre
+662,dsp1_21,wheelbarrow,stove,98.7,pre
+662,new_5,harp,mailbox,169.1,pre
+662,dsp1_06,mailbox,harp,140.9,pre
+662,dsp1_05,mailbox,bookshelf,82.9,pre
+662,dsp1_14,stove,bookshelf,86.6,pre
+662,dsp1_03,chair,piano,82.4,pre
+662,dsp1_13,stove,chair,99.1,pre
+662,dsp1_24,harp,telescope,171.0,pre
+662,dsp1_17,trashcan,picnic table,65.6,pre
+662,dsp1_02,well,picnic table,36.0,pre
+662,new_2,stove,wheelbarrow,129.3,pre
+662,dsp1_23,harp,plant,141.0,pre
+662,dsp1_10,plant,piano,23.0,pre
+662,dsp1_18,trashcan,well,148.4,pre
+662,new_1,well,telescope,43.7,pre
+662,new_7,trashcan,stove,97.5,pre
+662,dsp1_07,telescope,trashcan,128.4,pre
+662,dsp1_22,wheelbarrow,mailbox,162.0,pre
+663,dsp1_11,picnic table,wheelbarrow,137.9,pre
+663,dsp1_13,stove,chair,153.1,pre
+663,dsp1_22,wheelbarrow,mailbox,139.0,pre
+663,dsp1_07,telescope,trashcan,72.4,pre
+663,dsp1_21,wheelbarrow,stove,130.3,pre
+663,dsp1_14,stove,bookshelf,22.4,pre
+663,dsp1_04,chair,trashcan,91.2,pre
+663,new_3,bookshelf,piano,112.3,pre
+663,new_2,stove,wheelbarrow,9.7,pre
+663,new_5,harp,mailbox,138.1,pre
+663,dsp1_24,harp,telescope,131.0,pre
+663,dsp1_02,well,picnic table,81.0,pre
+663,dsp1_19,bookshelf,plant,135.3,pre
+663,dsp1_09,plant,well,28.6,pre
+663,dsp1_16,piano,harp,63.1,pre
+663,new_4,picnic table,chair,111.1,pre
+663,dsp1_17,trashcan,picnic table,113.4,pre
+663,new_7,trashcan,stove,147.5,pre
+663,dsp1_10,plant,piano,30.0,pre
+663,dsp1_08,telescope,wheelbarrow,72.9,pre
+663,new_1,well,telescope,120.7,pre
+663,dsp1_23,harp,plant,110.0,pre
+663,dsp1_06,mailbox,harp,170.9,pre
+663,new_6,piano,trashcan,176.7,pre
+663,dsp1_05,mailbox,bookshelf,142.1,pre
+663,dsp1_18,trashcan,well,170.4,pre
+663,dsp1_03,chair,piano,63.4,pre
+664,new_1,well,telescope,112.7,pre
+664,dsp1_23,harp,plant,111.0,pre
+664,dsp1_24,harp,telescope,134.0,pre
+664,new_2,stove,wheelbarrow,18.7,pre
+664,dsp1_22,wheelbarrow,mailbox,37.0,pre
+664,new_3,bookshelf,piano,32.7,pre
+664,dsp1_13,stove,chair,85.1,pre
+664,new_7,trashcan,stove,54.5,pre
+664,dsp1_21,wheelbarrow,stove,168.3,pre
+664,dsp1_02,well,picnic table,176.0,pre
+664,dsp1_18,trashcan,well,13.4,pre
+664,dsp1_16,piano,harp,128.1,pre
+664,dsp1_06,mailbox,harp,24.9,pre
+664,dsp1_09,plant,well,29.6,pre
+664,dsp1_14,stove,bookshelf,54.4,pre
+664,dsp1_17,trashcan,picnic table,45.4,pre
+664,new_4,picnic table,chair,137.9,pre
+664,dsp1_07,telescope,trashcan,88.6,pre
+664,dsp1_08,telescope,wheelbarrow,128.9,pre
+664,new_6,piano,trashcan,0.7,pre
+664,new_5,harp,mailbox,176.1,pre
+664,dsp1_10,plant,piano,14.0,pre
+664,dsp1_05,mailbox,bookshelf,163.1,pre
+664,dsp1_19,bookshelf,plant,67.7,pre
+664,dsp1_04,chair,trashcan,154.2,pre
+664,dsp1_03,chair,piano,27.6,pre
+664,dsp1_11,picnic table,wheelbarrow,156.1,pre
+665,dsp1_24,harp,telescope,177.0,pre
+665,dsp1_10,plant,piano,146.0,pre
+665,dsp1_16,piano,harp,92.9,pre
+665,dsp1_17,trashcan,picnic table,76.4,pre
+665,dsp1_14,stove,bookshelf,31.4,pre
+665,dsp1_04,chair,trashcan,21.2,pre
+665,dsp1_08,telescope,wheelbarrow,78.1,pre
+665,dsp1_07,telescope,trashcan,134.4,pre
+665,new_5,harp,mailbox,148.9,pre
+665,dsp1_09,plant,well,162.6,pre
+665,dsp1_19,bookshelf,plant,170.3,pre
+665,new_1,well,telescope,105.7,pre
+665,new_6,piano,trashcan,1.3,pre
+665,new_2,stove,wheelbarrow,9.7,pre
+665,dsp1_06,mailbox,harp,124.9,pre
+665,dsp1_21,wheelbarrow,stove,140.3,pre
+665,new_7,trashcan,stove,98.5,pre
+665,dsp1_18,trashcan,well,148.4,pre
+665,new_3,bookshelf,piano,54.7,pre
+665,dsp1_23,harp,plant,8.0,pre
+665,dsp1_13,stove,chair,13.1,pre
+665,dsp1_05,mailbox,bookshelf,136.1,pre
+665,dsp1_11,picnic table,wheelbarrow,138.9,pre
+665,dsp1_03,chair,piano,93.4,pre
+665,dsp1_22,wheelbarrow,mailbox,129.0,pre
+665,new_4,picnic table,chair,110.1,pre
+665,dsp1_02,well,picnic table,164.0,pre
+666,dsp1_19,bookshelf,plant,66.3,pre
+666,dsp1_16,piano,harp,2.9,pre
+666,new_5,harp,mailbox,20.1,pre
+666,dsp1_02,well,picnic table,8.0,pre
+666,dsp1_23,harp,plant,174.0,pre
+666,dsp1_18,trashcan,well,9.6,pre
+666,new_3,bookshelf,piano,65.3,pre
+666,dsp1_17,trashcan,picnic table,19.6,pre
+666,dsp1_22,wheelbarrow,mailbox,5.0,pre
+666,dsp1_24,harp,telescope,0.0,pre
+666,dsp1_03,chair,piano,8.6,pre
+666,dsp1_06,mailbox,harp,18.1,pre
+666,dsp1_14,stove,bookshelf,5.4,pre
+666,new_7,trashcan,stove,30.5,pre
+666,dsp1_04,chair,trashcan,19.8,pre
+666,new_1,well,telescope,96.7,pre
+666,dsp1_05,mailbox,bookshelf,0.9,pre
+666,dsp1_13,stove,chair,2.9,pre
+666,dsp1_10,plant,piano,20.0,pre
+666,dsp1_09,plant,well,8.4,pre
+666,new_4,picnic table,chair,21.9,pre
+666,new_2,stove,wheelbarrow,9.3,pre
+666,dsp1_21,wheelbarrow,stove,72.3,pre
+666,dsp1_07,telescope,trashcan,23.6,pre
+666,dsp1_11,picnic table,wheelbarrow,11.1,pre
+666,dsp1_08,telescope,wheelbarrow,65.9,pre
+666,new_6,piano,trashcan,14.7,pre
+667,dsp1_18,trashcan,well,55.6,pre
+667,new_6,piano,trashcan,94.3,pre
+667,dsp1_03,chair,piano,97.4,pre
+667,dsp1_21,wheelbarrow,stove,42.7,pre
+667,dsp1_22,wheelbarrow,mailbox,128.0,pre
+667,dsp1_02,well,picnic table,21.0,pre
+667,new_1,well,telescope,51.3,pre
+667,new_5,harp,mailbox,171.1,pre
+667,dsp1_13,stove,chair,110.1,pre
+667,dsp1_19,bookshelf,plant,120.3,pre
+667,dsp1_24,harp,telescope,147.0,pre
+667,dsp1_17,trashcan,picnic table,142.4,pre
+667,dsp1_07,telescope,trashcan,126.4,pre
+667,new_2,stove,wheelbarrow,98.3,pre
+667,dsp1_23,harp,plant,24.0,pre
+667,dsp1_05,mailbox,bookshelf,159.9,pre
+667,dsp1_06,mailbox,harp,67.9,pre
+667,new_4,picnic table,chair,117.1,pre
+667,dsp1_08,telescope,wheelbarrow,150.9,pre
+667,dsp1_14,stove,bookshelf,28.4,pre
+667,dsp1_10,plant,piano,18.0,pre
+667,new_7,trashcan,stove,99.5,pre
+667,new_3,bookshelf,piano,142.7,pre
+667,dsp1_04,chair,trashcan,142.8,pre
+667,dsp1_09,plant,well,149.4,pre
+667,dsp1_11,picnic table,wheelbarrow,39.1,pre
+667,dsp1_16,piano,harp,77.1,pre
+668,dsp1_10,plant,piano,33.0,pre
+668,new_6,piano,trashcan,0.3,pre
+668,dsp1_08,telescope,wheelbarrow,145.9,pre
+668,dsp1_18,trashcan,well,63.6,pre
+668,dsp1_04,chair,trashcan,100.8,pre
+668,dsp1_03,chair,piano,114.4,pre
+668,dsp1_09,plant,well,88.4,pre
+668,dsp1_23,harp,plant,122.0,pre
+668,dsp1_14,stove,bookshelf,67.6,pre
+668,dsp1_21,wheelbarrow,stove,156.7,pre
+668,dsp1_13,stove,chair,36.1,pre
+668,dsp1_19,bookshelf,plant,108.7,pre
+668,new_2,stove,wheelbarrow,155.3,pre
+668,dsp1_17,trashcan,picnic table,70.6,pre
+668,dsp1_07,telescope,trashcan,166.6,pre
+668,dsp1_02,well,picnic table,179.0,pre
+668,new_5,harp,mailbox,163.9,pre
+668,dsp1_16,piano,harp,110.1,pre
+668,dsp1_24,harp,telescope,115.0,pre
+668,dsp1_22,wheelbarrow,mailbox,93.0,pre
+668,dsp1_05,mailbox,bookshelf,148.9,pre
+668,dsp1_06,mailbox,harp,153.1,pre
+668,new_7,trashcan,stove,30.5,pre
+668,new_1,well,telescope,63.7,pre
+668,new_4,picnic table,chair,53.9,pre
+668,dsp1_11,picnic table,wheelbarrow,164.1,pre
+668,new_3,bookshelf,piano,0.7,pre
+669,dsp1_13,stove,chair,105.9,pre
+669,dsp1_24,harp,telescope,121.0,pre
+669,dsp1_17,trashcan,picnic table,21.6,pre
+669,dsp1_11,picnic table,wheelbarrow,88.1,pre
+669,dsp1_19,bookshelf,plant,9.7,pre
+669,new_1,well,telescope,25.7,pre
+669,dsp1_09,plant,well,60.4,pre
+669,dsp1_08,telescope,wheelbarrow,63.9,pre
+669,new_7,trashcan,stove,12.5,pre
+669,dsp1_23,harp,plant,42.0,pre
+669,new_4,picnic table,chair,67.9,pre
+669,new_6,piano,trashcan,20.3,pre
+669,new_5,harp,mailbox,8.9,pre
+669,dsp1_02,well,picnic table,1.0,pre
+669,dsp1_05,mailbox,bookshelf,12.9,pre
+669,dsp1_06,mailbox,harp,9.9,pre
+669,dsp1_21,wheelbarrow,stove,18.7,pre
+669,dsp1_18,trashcan,well,10.6,pre
+669,dsp1_03,chair,piano,12.4,pre
+669,dsp1_04,chair,trashcan,7.2,pre
+669,dsp1_14,stove,bookshelf,141.4,pre
+669,dsp1_07,telescope,trashcan,46.6,pre
+669,dsp1_22,wheelbarrow,mailbox,13.0,pre
+669,new_3,bookshelf,piano,0.3,pre
+669,dsp1_16,piano,harp,3.1,pre
+669,dsp1_10,plant,piano,70.0,pre
+669,new_2,stove,wheelbarrow,78.7,pre
+670,dsp1_05,mailbox,bookshelf,100.9,pre
+670,new_1,well,telescope,18.7,pre
+670,dsp1_04,chair,trashcan,130.8,pre
+670,dsp1_02,well,picnic table,168.0,pre
+670,new_7,trashcan,stove,43.5,pre
+670,dsp1_11,picnic table,wheelbarrow,173.1,pre
+670,new_4,picnic table,chair,43.9,pre
+670,new_2,stove,wheelbarrow,44.3,pre
+670,dsp1_22,wheelbarrow,mailbox,73.0,pre
+670,dsp1_16,piano,harp,1.1,pre
+670,dsp1_18,trashcan,well,100.6,pre
+670,dsp1_08,telescope,wheelbarrow,152.9,pre
+670,new_6,piano,trashcan,1.3,pre
+670,dsp1_07,telescope,trashcan,117.4,pre
+670,dsp1_24,harp,telescope,152.0,pre
+670,dsp1_23,harp,plant,90.0,pre
+670,dsp1_17,trashcan,picnic table,49.6,pre
+670,dsp1_14,stove,bookshelf,42.6,pre
+670,dsp1_03,chair,piano,162.6,pre
+670,dsp1_13,stove,chair,108.1,pre
+670,dsp1_06,mailbox,harp,179.9,pre
+670,new_5,harp,mailbox,178.1,pre
+670,dsp1_21,wheelbarrow,stove,117.7,pre
+670,dsp1_09,plant,well,135.4,pre
+670,dsp1_10,plant,piano,6.0,pre
+670,new_3,bookshelf,piano,1.7,pre
+670,dsp1_19,bookshelf,plant,175.3,pre
+605,dsp1_17,trashcan,picnic table,44.64530212,post
+605,dsp1_05,mailbox,bookshelf,5.911443155,post
+605,dsp1_03,chair,piano,39.58395499,post
+605,new_7,trashcan,stove,26.46265574,post
+605,dsp1_08,telescope,wheelbarrow,77.89392067,post
+605,dsp1_10,plant,piano,76.965791,post
+605,dsp1_14,stove,bookshelf,24.36978881,post
+605,dsp1_22,wheelbarrow,mailbox,8.952043123,post
+605,dsp1_07,telescope,trashcan,86.62277151,post
+605,new_1,well,telescope,91.66135446,post
+605,dsp1_24,harp,telescope,27.0472296,post
+605,dsp1_21,wheelbarrow,stove,7.320603378,post
+605,dsp1_23,harp,plant,17.96763749,post
+605,dsp1_02,well,picnic table,4,post
+605,dsp1_04,chair,trashcan,50.75981217,post
+605,dsp1_11,picnic table,wheelbarrow,27.94686305,post
+605,new_2,stove,wheelbarrow,4.320603378,post
+605,dsp1_09,plant,well,31.38102421,post
+605,dsp1_18,trashcan,well,33.64530212,post
+605,new_6,piano,trashcan,35.687,post
+605,dsp1_19,bookshelf,plant,36.30394961,post
+605,dsp1_16,piano,harp,0.90197481,post
+605,dsp1_13,stove,chair,1.878541504,post
+605,new_4,picnic table,chair,16.05856127,post
+605,new_3,bookshelf,piano,0.738069053,post
+605,new_5,harp,mailbox,160.1461191,post
+605,dsp1_06,mailbox,harp,135.0751584,post
+606,dsp1_05,mailbox,bookshelf,138.9114432,post
+606,dsp1_24,harp,telescope,64.0472296,post
+606,new_6,piano,trashcan,42.687,post
+606,new_4,picnic table,chair,96.94143873,post
+606,dsp1_19,bookshelf,plant,8.303949608,post
+606,dsp1_02,well,picnic table,167,post
+606,dsp1_22,wheelbarrow,mailbox,76.04795688,post
+606,dsp1_10,plant,piano,104.965791,post
+606,new_7,trashcan,stove,11.46265574,post
+606,new_1,well,telescope,10.33864554,post
+606,dsp1_09,plant,well,30.38102421,post
+606,dsp1_18,trashcan,well,83.35469788,post
+606,dsp1_04,chair,trashcan,175.7598122,post
+606,dsp1_17,trashcan,picnic table,2.645302119,post
+606,new_5,harp,mailbox,18.14611906,post
+606,dsp1_23,harp,plant,149.9676375,post
+606,new_3,bookshelf,piano,19.73806905,post
+606,dsp1_03,chair,piano,13.41604501,post
+606,dsp1_14,stove,bookshelf,5.630211191,post
+606,dsp1_07,telescope,trashcan,37.62277151,post
+606,dsp1_08,telescope,wheelbarrow,14.10607933,post
+606,dsp1_21,wheelbarrow,stove,74.67939662,post
+606,new_2,stove,wheelbarrow,3.679396622,post
+606,dsp1_06,mailbox,harp,155.9248416,post
+606,dsp1_11,picnic table,wheelbarrow,103.0531369,post
+606,dsp1_16,piano,harp,147.9019748,post
+606,dsp1_13,stove,chair,77.1214585,post
+607,dsp1_05,mailbox,bookshelf,173.0885568,post
+607,new_7,trashcan,stove,101.5373443,post
+607,dsp1_19,bookshelf,plant,162.6960504,post
+607,dsp1_23,harp,plant,163.9676375,post
+607,new_6,piano,trashcan,156.313,post
+607,dsp1_06,mailbox,harp,179.0751584,post
+607,dsp1_08,telescope,wheelbarrow,126.1060793,post
+607,new_3,bookshelf,piano,30.26193095,post
+607,dsp1_21,wheelbarrow,stove,147.3206034,post
+607,dsp1_24,harp,telescope,11.0472296,post
+607,dsp1_09,plant,well,56.61897579,post
+607,dsp1_22,wheelbarrow,mailbox,33.95204312,post
+607,new_5,harp,mailbox,138.1461191,post
+607,dsp1_16,piano,harp,141.0980252,post
+607,dsp1_14,stove,bookshelf,58.36978881,post
+607,dsp1_18,trashcan,well,118.3546979,post
+607,dsp1_13,stove,chair,71.1214585,post
+607,dsp1_02,well,picnic table,139,post
+607,dsp1_07,telescope,trashcan,172.6227715,post
+607,dsp1_03,chair,piano,53.41604501,post
+607,dsp1_04,chair,trashcan,123.7598122,post
+607,dsp1_10,plant,piano,135.965791,post
+607,new_4,picnic table,chair,72.94143873,post
+607,dsp1_17,trashcan,picnic table,85.35469788,post
+607,new_1,well,telescope,34.33864554,post
+607,new_2,stove,wheelbarrow,32.67939662,post
+607,dsp1_11,picnic table,wheelbarrow,6.053136946,post
+608,dsp1_03,chair,piano,31.41604501,post
+608,dsp1_19,bookshelf,plant,53.30394961,post
+608,dsp1_05,mailbox,bookshelf,116.9114432,post
+608,new_7,trashcan,stove,68.46265574,post
+608,dsp1_08,telescope,wheelbarrow,152.1060793,post
+608,dsp1_16,piano,harp,123.9019748,post
+608,dsp1_13,stove,chair,89.1214585,post
+608,dsp1_14,stove,bookshelf,7.369788809,post
+608,dsp1_09,plant,well,103.3810242,post
+608,dsp1_24,harp,telescope,136.0472296,post
+608,dsp1_17,trashcan,picnic table,133.6453021,post
+608,new_6,piano,trashcan,165.313,post
+608,dsp1_18,trashcan,well,117.3546979,post
+608,dsp1_04,chair,trashcan,20.75981217,post
+608,dsp1_22,wheelbarrow,mailbox,6.047956877,post
+608,dsp1_11,picnic table,wheelbarrow,95.05313695,post
+608,dsp1_07,telescope,trashcan,51.62277151,post
+608,new_1,well,telescope,118.3386455,post
+608,dsp1_06,mailbox,harp,22.07515838,post
+608,new_5,harp,mailbox,18.14611906,post
+608,new_3,bookshelf,piano,141.2619309,post
+608,dsp1_23,harp,plant,100.0323625,post
+608,new_4,picnic table,chair,73.94143873,post
+608,dsp1_21,wheelbarrow,stove,15.32060338,post
+608,dsp1_10,plant,piano,100.965791,post
+608,new_2,stove,wheelbarrow,2.320603378,post
+608,dsp1_02,well,picnic table,113,post
+609,dsp1_17,trashcan,picnic table,9.645302119,post
+609,dsp1_23,harp,plant,16.96763749,post
+609,dsp1_19,bookshelf,plant,3.303949608,post
+609,new_3,bookshelf,piano,1.738069053,post
+609,dsp1_24,harp,telescope,30.0472296,post
+609,new_4,picnic table,chair,18.05856127,post
+609,dsp1_10,plant,piano,117.034209,post
+609,dsp1_18,trashcan,well,2.354697881,post
+609,dsp1_13,stove,chair,13.1214585,post
+609,dsp1_11,picnic table,wheelbarrow,24.05313695,post
+609,new_6,piano,trashcan,9.312999998,post
+609,dsp1_02,well,picnic table,17,post
+609,new_1,well,telescope,13.66135446,post
+609,dsp1_14,stove,bookshelf,11.36978881,post
+609,dsp1_06,mailbox,harp,18.07515838,post
+609,dsp1_07,telescope,trashcan,28.37722849,post
+609,dsp1_16,piano,harp,0.09802519,post
+609,dsp1_21,wheelbarrow,stove,3.679396622,post
+609,dsp1_04,chair,trashcan,21.75981217,post
+609,new_7,trashcan,stove,42.46265574,post
+609,new_2,stove,wheelbarrow,6.679396622,post
+609,dsp1_22,wheelbarrow,mailbox,37.95204312,post
+609,dsp1_05,mailbox,bookshelf,11.91144315,post
+609,dsp1_03,chair,piano,5.416045012,post
+609,dsp1_09,plant,well,79.61897579,post
+609,new_5,harp,mailbox,35.14611906,post
+609,dsp1_08,telescope,wheelbarrow,20.10607933,post
+610,dsp1_10,plant,piano,80.034209,post
+610,new_7,trashcan,stove,9.537344259,post
+610,dsp1_06,mailbox,harp,17.07515838,post
+610,dsp1_17,trashcan,picnic table,7.354697881,post
+610,dsp1_21,wheelbarrow,stove,156.6793966,post
+610,new_5,harp,mailbox,23.14611906,post
+610,dsp1_04,chair,trashcan,45.24018783,post
+610,dsp1_14,stove,bookshelf,28.36978881,post
+610,dsp1_18,trashcan,well,25.35469788,post
+610,dsp1_11,picnic table,wheelbarrow,16.94686305,post
+610,dsp1_22,wheelbarrow,mailbox,95.95204312,post
+610,new_4,picnic table,chair,69.94143873,post
+610,dsp1_02,well,picnic table,168,post
+610,dsp1_07,telescope,trashcan,45.37722849,post
+610,dsp1_09,plant,well,153.6189758,post
+610,dsp1_13,stove,chair,2.121458496,post
+610,dsp1_24,harp,telescope,157.0472296,post
+610,dsp1_08,telescope,wheelbarrow,26.89392067,post
+610,new_2,stove,wheelbarrow,74.67939662,post
+610,dsp1_05,mailbox,bookshelf,11.08855685,post
+610,new_1,well,telescope,21.33864554,post
+610,dsp1_19,bookshelf,plant,63.69605039,post
+610,new_6,piano,trashcan,14.313,post
+610,dsp1_23,harp,plant,76.96763749,post
+610,dsp1_16,piano,harp,10.90197481,post
+610,dsp1_03,chair,piano,21.58395499,post
+610,new_3,bookshelf,piano,18.73806905,post
+611,dsp1_04,chair,trashcan,0.75981217,post
+611,dsp1_05,mailbox,bookshelf,66.08855685,post
+611,new_2,stove,wheelbarrow,7.679396622,post
+611,new_6,piano,trashcan,20.313,post
+611,dsp1_03,chair,piano,31.58395499,post
+611,new_3,bookshelf,piano,126.7380691,post
+611,new_7,trashcan,stove,78.53734426,post
+611,dsp1_16,piano,harp,14.09802519,post
+611,dsp1_02,well,picnic table,82,post
+611,dsp1_14,stove,bookshelf,35.36978881,post
+611,new_1,well,telescope,42.66135446,post
+611,new_5,harp,mailbox,41.14611906,post
+611,dsp1_13,stove,chair,43.8785415,post
+611,dsp1_09,plant,well,128.3810242,post
+611,dsp1_08,telescope,wheelbarrow,34.10607933,post
+611,dsp1_10,plant,piano,32.034209,post
+611,dsp1_24,harp,telescope,73.0472296,post
+611,dsp1_18,trashcan,well,7.645302119,post
+611,dsp1_22,wheelbarrow,mailbox,5.047956877,post
+611,dsp1_17,trashcan,picnic table,66.35469788,post
+611,dsp1_23,harp,plant,81.96763749,post
+611,dsp1_19,bookshelf,plant,140.3039496,post
+611,dsp1_21,wheelbarrow,stove,176.6793966,post
+611,new_4,picnic table,chair,8.058561267,post
+611,dsp1_11,picnic table,wheelbarrow,117.9468631,post
+611,dsp1_06,mailbox,harp,99.92484162,post
+611,dsp1_07,telescope,trashcan,47.62277151,post
+612,new_6,piano,trashcan,12.687,post
+612,dsp1_23,harp,plant,149.9676375,post
+612,dsp1_17,trashcan,picnic table,35.35469788,post
+612,dsp1_24,harp,telescope,35.0472296,post
+612,dsp1_13,stove,chair,62.1214585,post
+612,dsp1_06,mailbox,harp,7.075158383,post
+612,new_3,bookshelf,piano,7.738069053,post
+612,dsp1_21,wheelbarrow,stove,10.67939662,post
+612,dsp1_10,plant,piano,131.034209,post
+612,new_5,harp,mailbox,55.14611906,post
+612,dsp1_16,piano,harp,13.09802519,post
+612,new_1,well,telescope,17.66135446,post
+612,dsp1_11,picnic table,wheelbarrow,6.053136946,post
+612,dsp1_02,well,picnic table,1,post
+612,new_4,picnic table,chair,105.0585613,post
+612,dsp1_04,chair,trashcan,43.75981217,post
+612,new_7,trashcan,stove,34.46265574,post
+612,dsp1_19,bookshelf,plant,28.30394961,post
+612,dsp1_18,trashcan,well,45.35469788,post
+612,new_2,stove,wheelbarrow,11.32060338,post
+612,dsp1_08,telescope,wheelbarrow,27.10607933,post
+612,dsp1_09,plant,well,100.3810242,post
+612,dsp1_03,chair,piano,33.41604501,post
+612,dsp1_07,telescope,trashcan,70.62277151,post
+612,dsp1_22,wheelbarrow,mailbox,61.95204312,post
+612,dsp1_05,mailbox,bookshelf,84.91144315,post
+612,dsp1_14,stove,bookshelf,29.36978881,post
+613,dsp1_04,chair,trashcan,159.2401878,post
+613,dsp1_07,telescope,trashcan,158.3772285,post
+613,dsp1_09,plant,well,98.38102421,post
+613,dsp1_05,mailbox,bookshelf,175.0885568,post
+613,dsp1_14,stove,bookshelf,17.36978881,post
+613,dsp1_18,trashcan,well,122.3546979,post
+613,dsp1_17,trashcan,picnic table,49.35469788,post
+613,dsp1_10,plant,piano,163.965791,post
+613,dsp1_19,bookshelf,plant,5.696050392,post
+613,dsp1_02,well,picnic table,9,post
+613,dsp1_13,stove,chair,75.1214585,post
+613,new_6,piano,trashcan,28.313,post
+613,dsp1_24,harp,telescope,147.0472296,post
+613,new_2,stove,wheelbarrow,16.32060338,post
+613,new_1,well,telescope,52.66135446,post
+613,dsp1_11,picnic table,wheelbarrow,37.05313695,post
+613,dsp1_21,wheelbarrow,stove,176.6793966,post
+613,new_3,bookshelf,piano,116.2619309,post
+613,dsp1_23,harp,plant,27.96763749,post
+613,dsp1_22,wheelbarrow,mailbox,9.952043123,post
+613,new_4,picnic table,chair,149.9414387,post
+613,new_7,trashcan,stove,86.53734426,post
+613,dsp1_16,piano,harp,97.09802519,post
+613,dsp1_08,telescope,wheelbarrow,98.89392067,post
+613,new_5,harp,mailbox,2.146119064,post
+613,dsp1_03,chair,piano,71.41604501,post
+613,dsp1_06,mailbox,harp,4.924841617,post
+614,dsp1_16,piano,harp,3.90197481,post
+614,dsp1_02,well,picnic table,0,post
+614,dsp1_03,chair,piano,3.416045012,post
+614,dsp1_23,harp,plant,19.03236251,post
+614,new_7,trashcan,stove,27.46265574,post
+614,new_1,well,telescope,9.33864554,post
+614,dsp1_10,plant,piano,4.034209003,post
+614,new_6,piano,trashcan,24.687,post
+614,dsp1_04,chair,trashcan,14.75981217,post
+614,dsp1_18,trashcan,well,11.64530212,post
+614,dsp1_24,harp,telescope,4.952770397,post
+614,new_3,bookshelf,piano,0.738069053,post
+614,dsp1_09,plant,well,153.6189758,post
+614,new_2,stove,wheelbarrow,19.67939662,post
+614,dsp1_21,wheelbarrow,stove,17.67939662,post
+614,dsp1_07,telescope,trashcan,23.62277151,post
+614,dsp1_11,picnic table,wheelbarrow,146.9468631,post
+614,dsp1_08,telescope,wheelbarrow,38.89392067,post
+614,dsp1_19,bookshelf,plant,57.69605039,post
+614,dsp1_05,mailbox,bookshelf,27.91144315,post
+614,dsp1_22,wheelbarrow,mailbox,14.04795688,post
+614,dsp1_14,stove,bookshelf,20.36978881,post
+614,new_4,picnic table,chair,19.94143873,post
+614,new_5,harp,mailbox,1.853880936,post
+614,dsp1_17,trashcan,picnic table,33.64530212,post
+614,dsp1_13,stove,chair,1.121458496,post
+614,dsp1_06,mailbox,harp,3.075158383,post
+615,dsp1_17,trashcan,picnic table,54.64530212,post
+615,dsp1_21,wheelbarrow,stove,172.6793966,post
+615,dsp1_23,harp,plant,141.9676375,post
+615,dsp1_06,mailbox,harp,156.0751584,post
+615,dsp1_07,telescope,trashcan,119.6227715,post
+615,dsp1_05,mailbox,bookshelf,85.91144315,post
+615,new_4,picnic table,chair,112.9414387,post
+615,dsp1_09,plant,well,174.3810242,post
+615,dsp1_08,telescope,wheelbarrow,131.8939207,post
+615,new_6,piano,trashcan,91.313,post
+615,dsp1_16,piano,harp,116.9019748,post
+615,dsp1_11,picnic table,wheelbarrow,142.9468631,post
+615,dsp1_24,harp,telescope,144.0472296,post
+615,new_5,harp,mailbox,91.14611906,post
+615,new_1,well,telescope,98.33864554,post
+615,new_7,trashcan,stove,32.46265574,post
+615,dsp1_02,well,picnic table,165,post
+615,new_3,bookshelf,piano,0.261930947,post
+615,dsp1_13,stove,chair,12.1214585,post
+615,new_2,stove,wheelbarrow,108.3206034,post
+615,dsp1_22,wheelbarrow,mailbox,33.04795688,post
+615,dsp1_18,trashcan,well,137.6453021,post
+615,dsp1_14,stove,bookshelf,13.36978881,post
+615,dsp1_03,chair,piano,137.583955,post
+615,dsp1_10,plant,piano,159.034209,post
+615,dsp1_04,chair,trashcan,87.75981217,post
+615,dsp1_19,bookshelf,plant,100.6960504,post
+616,dsp1_02,well,picnic table,83,post
+616,dsp1_10,plant,piano,61.965791,post
+616,dsp1_13,stove,chair,27.1214585,post
+616,dsp1_08,telescope,wheelbarrow,78.89392067,post
+616,new_3,bookshelf,piano,55.73806905,post
+616,new_2,stove,wheelbarrow,0.679396622,post
+616,new_6,piano,trashcan,109.313,post
+616,new_7,trashcan,stove,67.53734426,post
+616,dsp1_09,plant,well,20.38102421,post
+616,dsp1_04,chair,trashcan,20.75981217,post
+616,dsp1_06,mailbox,harp,7.924841617,post
+616,dsp1_05,mailbox,bookshelf,10.91144315,post
+616,new_4,picnic table,chair,163.9414387,post
+616,dsp1_18,trashcan,well,33.35469788,post
+616,dsp1_23,harp,plant,32.96763749,post
+616,dsp1_14,stove,bookshelf,24.36978881,post
+616,dsp1_11,picnic table,wheelbarrow,68.05313695,post
+616,dsp1_07,telescope,trashcan,76.62277151,post
+616,new_1,well,telescope,28.66135446,post
+616,dsp1_03,chair,piano,51.41604501,post
+616,new_5,harp,mailbox,97.14611906,post
+616,dsp1_16,piano,harp,91.09802519,post
+616,dsp1_22,wheelbarrow,mailbox,92.95204312,post
+616,dsp1_21,wheelbarrow,stove,61.67939662,post
+616,dsp1_17,trashcan,picnic table,36.64530212,post
+616,dsp1_24,harp,telescope,55.0472296,post
+616,dsp1_19,bookshelf,plant,61.69605039,post
+617,dsp1_19,bookshelf,plant,170.3039496,post
+617,dsp1_21,wheelbarrow,stove,159.6793966,post
+617,new_1,well,telescope,59.66135446,post
+617,new_3,bookshelf,piano,27.26193095,post
+617,new_2,stove,wheelbarrow,8.679396622,post
+617,dsp1_23,harp,plant,149.9676375,post
+617,dsp1_16,piano,harp,81.90197481,post
+617,dsp1_09,plant,well,105.3810242,post
+617,dsp1_06,mailbox,harp,5.075158383,post
+617,dsp1_04,chair,trashcan,15.75981217,post
+617,new_6,piano,trashcan,23.687,post
+617,new_5,harp,mailbox,154.1461191,post
+617,new_7,trashcan,stove,36.53734426,post
+617,dsp1_13,stove,chair,158.1214585,post
+617,dsp1_11,picnic table,wheelbarrow,75.05313695,post
+617,dsp1_10,plant,piano,92.965791,post
+617,dsp1_03,chair,piano,7.583954988,post
+617,new_4,picnic table,chair,86.94143873,post
+617,dsp1_14,stove,bookshelf,46.36978881,post
+617,dsp1_08,telescope,wheelbarrow,33.89392067,post
+617,dsp1_24,harp,telescope,47.9527704,post
+617,dsp1_07,telescope,trashcan,87.62277151,post
+617,dsp1_02,well,picnic table,7,post
+617,dsp1_17,trashcan,picnic table,143.3546979,post
+617,dsp1_22,wheelbarrow,mailbox,163.9520431,post
+617,dsp1_18,trashcan,well,26.35469788,post
+617,dsp1_05,mailbox,bookshelf,13.08855685,post
+618,dsp1_09,plant,well,99.38102421,post
+618,dsp1_14,stove,bookshelf,34.63021119,post
+618,dsp1_04,chair,trashcan,175.7598122,post
+618,new_6,piano,trashcan,164.687,post
+618,new_4,picnic table,chair,168.0585613,post
+618,new_3,bookshelf,piano,1.738069053,post
+618,dsp1_11,picnic table,wheelbarrow,58.05313695,post
+618,dsp1_19,bookshelf,plant,149.6960504,post
+618,dsp1_24,harp,telescope,167.0472296,post
+618,dsp1_02,well,picnic table,10,post
+618,dsp1_18,trashcan,well,100.3546979,post
+618,new_5,harp,mailbox,94.14611906,post
+618,new_7,trashcan,stove,0.537344259,post
+618,dsp1_16,piano,harp,90.09802519,post
+618,new_2,stove,wheelbarrow,82.32060338,post
+618,dsp1_10,plant,piano,134.965791,post
+618,dsp1_03,chair,piano,143.416045,post
+618,dsp1_13,stove,chair,85.1214585,post
+618,dsp1_17,trashcan,picnic table,5.645302119,post
+618,dsp1_07,telescope,trashcan,101.3772285,post
+618,dsp1_06,mailbox,harp,32.92484162,post
+618,dsp1_05,mailbox,bookshelf,165.0885568,post
+618,dsp1_21,wheelbarrow,stove,60.67939662,post
+618,dsp1_23,harp,plant,36.96763749,post
+618,dsp1_08,telescope,wheelbarrow,64.89392067,post
+618,dsp1_22,wheelbarrow,mailbox,109.9520431,post
+618,new_1,well,telescope,55.66135446,post
+619,new_5,harp,mailbox,8.146119064,post
+619,dsp1_02,well,picnic table,12,post
+619,dsp1_06,mailbox,harp,1.924841617,post
+619,new_2,stove,wheelbarrow,8.320603378,post
+619,dsp1_19,bookshelf,plant,7.696050392,post
+619,dsp1_18,trashcan,well,10.64530212,post
+619,dsp1_24,harp,telescope,0.952770397,post
+619,dsp1_23,harp,plant,21.03236251,post
+619,dsp1_07,telescope,trashcan,10.62277151,post
+619,dsp1_21,wheelbarrow,stove,1.320603378,post
+619,dsp1_10,plant,piano,3.034209003,post
+619,dsp1_16,piano,harp,1.90197481,post
+619,dsp1_22,wheelbarrow,mailbox,0.047956877,post
+619,dsp1_13,stove,chair,24.8785415,post
+619,dsp1_11,picnic table,wheelbarrow,13.94686305,post
+619,dsp1_14,stove,bookshelf,5.369788809,post
+619,new_3,bookshelf,piano,0.738069053,post
+619,dsp1_03,chair,piano,16.58395499,post
+619,dsp1_04,chair,trashcan,9.75981217,post
+619,new_1,well,telescope,8.33864554,post
+619,new_6,piano,trashcan,0.312999998,post
+619,new_7,trashcan,stove,6.537344259,post
+619,dsp1_17,trashcan,picnic table,7.354697881,post
+619,dsp1_08,telescope,wheelbarrow,13.89392067,post
+619,dsp1_09,plant,well,3.618975793,post
+619,new_4,picnic table,chair,20.94143873,post
+619,dsp1_05,mailbox,bookshelf,10.08855685,post
+620,dsp1_03,chair,piano,22.58395499,post
+620,dsp1_06,mailbox,harp,18.92484162,post
+620,new_1,well,telescope,20.33864554,post
+620,dsp1_11,picnic table,wheelbarrow,84.05313695,post
+620,dsp1_04,chair,trashcan,8.75981217,post
+620,new_3,bookshelf,piano,4.261930947,post
+620,dsp1_24,harp,telescope,54.9527704,post
+620,dsp1_14,stove,bookshelf,18.36978881,post
+620,dsp1_23,harp,plant,145.9676375,post
+620,dsp1_08,telescope,wheelbarrow,51.89392067,post
+620,new_4,picnic table,chair,81.94143873,post
+620,dsp1_16,piano,harp,58.90197481,post
+620,dsp1_19,bookshelf,plant,20.30394961,post
+620,new_7,trashcan,stove,6.462655741,post
+620,dsp1_21,wheelbarrow,stove,7.320603378,post
+620,dsp1_07,telescope,trashcan,69.62277151,post
+620,new_2,stove,wheelbarrow,8.320603378,post
+620,dsp1_13,stove,chair,3.878541504,post
+620,dsp1_10,plant,piano,0.034209003,post
+620,new_5,harp,mailbox,179.8538809,post
+620,new_6,piano,trashcan,1.687000002,post
+620,dsp1_09,plant,well,125.3810242,post
+620,dsp1_05,mailbox,bookshelf,14.08855685,post
+620,dsp1_22,wheelbarrow,mailbox,6.952043123,post
+620,dsp1_02,well,picnic table,152,post
+620,dsp1_18,trashcan,well,37.35469788,post
+620,dsp1_17,trashcan,picnic table,4.645302119,post
+621,dsp1_11,picnic table,wheelbarrow,145.0531369,post
+621,dsp1_06,mailbox,harp,111.9248416,post
+621,dsp1_10,plant,piano,36.965791,post
+621,dsp1_02,well,picnic table,54,post
+621,dsp1_04,chair,trashcan,148.2401878,post
+621,dsp1_17,trashcan,picnic table,8.645302119,post
+621,dsp1_22,wheelbarrow,mailbox,0.952043123,post
+621,new_1,well,telescope,143.6613545,post
+621,dsp1_09,plant,well,1.381024207,post
+621,dsp1_05,mailbox,bookshelf,179.0885568,post
+621,new_6,piano,trashcan,68.687,post
+621,new_5,harp,mailbox,115.8538809,post
+621,dsp1_18,trashcan,well,29.35469788,post
+621,dsp1_19,bookshelf,plant,45.69605039,post
+621,dsp1_14,stove,bookshelf,18.63021119,post
+621,dsp1_24,harp,telescope,90.9527704,post
+621,dsp1_07,telescope,trashcan,156.3772285,post
+621,dsp1_13,stove,chair,114.8785415,post
+621,dsp1_21,wheelbarrow,stove,48.32060338,post
+621,dsp1_23,harp,plant,56.03236251,post
+621,new_4,picnic table,chair,91.05856127,post
+621,dsp1_08,telescope,wheelbarrow,20.89392067,post
+621,new_3,bookshelf,piano,13.73806905,post
+621,dsp1_03,chair,piano,25.41604501,post
+621,dsp1_16,piano,harp,27.90197481,post
+621,new_7,trashcan,stove,28.53734426,post
+621,new_2,stove,wheelbarrow,41.32060338,post
+622,dsp1_17,trashcan,picnic table,28.64530212,post
+622,dsp1_06,mailbox,harp,23.07515838,post
+622,dsp1_23,harp,plant,8.032362509,post
+622,dsp1_13,stove,chair,178.1214585,post
+622,dsp1_19,bookshelf,plant,56.69605039,post
+622,dsp1_08,telescope,wheelbarrow,54.89392067,post
+622,dsp1_21,wheelbarrow,stove,167.6793966,post
+622,new_7,trashcan,stove,4.462655741,post
+622,dsp1_05,mailbox,bookshelf,32.08855685,post
+622,dsp1_18,trashcan,well,11.35469788,post
+622,dsp1_02,well,picnic table,81,post
+622,dsp1_09,plant,well,86.61897579,post
+622,dsp1_07,telescope,trashcan,4.377228493,post
+622,dsp1_03,chair,piano,58.41604501,post
+622,new_6,piano,trashcan,32.687,post
+622,new_4,picnic table,chair,0.058561267,post
+622,new_3,bookshelf,piano,46.26193095,post
+622,new_1,well,telescope,116.6613545,post
+622,dsp1_11,picnic table,wheelbarrow,173.0531369,post
+622,new_5,harp,mailbox,114.1461191,post
+622,dsp1_14,stove,bookshelf,26.36978881,post
+622,dsp1_24,harp,telescope,156.0472296,post
+622,new_2,stove,wheelbarrow,1.679396622,post
+622,dsp1_16,piano,harp,9.90197481,post
+622,dsp1_22,wheelbarrow,mailbox,85.95204312,post
+622,dsp1_04,chair,trashcan,37.24018783,post
+622,dsp1_10,plant,piano,47.965791,post
+623,dsp1_13,stove,chair,20.8785415,post
+623,dsp1_10,plant,piano,30.965791,post
+623,dsp1_03,chair,piano,32.41604501,post
+623,new_1,well,telescope,20.66135446,post
+623,dsp1_22,wheelbarrow,mailbox,22.04795688,post
+623,new_6,piano,trashcan,84.687,post
+623,dsp1_17,trashcan,picnic table,29.35469788,post
+623,dsp1_23,harp,plant,87.96763749,post
+623,new_3,bookshelf,piano,150.2619309,post
+623,dsp1_05,mailbox,bookshelf,10.08855685,post
+623,new_4,picnic table,chair,91.05856127,post
+623,dsp1_02,well,picnic table,32,post
+623,dsp1_14,stove,bookshelf,15.63021119,post
+623,dsp1_08,telescope,wheelbarrow,9.89392067,post
+623,dsp1_04,chair,trashcan,2.75981217,post
+623,dsp1_16,piano,harp,48.90197481,post
+623,dsp1_19,bookshelf,plant,109.3039496,post
+623,new_5,harp,mailbox,116.1461191,post
+623,dsp1_07,telescope,trashcan,41.62277151,post
+623,dsp1_09,plant,well,81.38102421,post
+623,dsp1_24,harp,telescope,148.0472296,post
+623,dsp1_11,picnic table,wheelbarrow,6.946863054,post
+623,dsp1_18,trashcan,well,8.645302119,post
+623,dsp1_06,mailbox,harp,4.924841617,post
+623,new_2,stove,wheelbarrow,92.67939662,post
+623,new_7,trashcan,stove,46.53734426,post
+623,dsp1_21,wheelbarrow,stove,108.3206034,post
+624,new_5,harp,mailbox,31.14611906,post
+624,dsp1_04,chair,trashcan,38.24018783,post
+624,dsp1_17,trashcan,picnic table,2.354697881,post
+624,new_6,piano,trashcan,24.687,post
+624,dsp1_24,harp,telescope,47.0472296,post
+624,dsp1_19,bookshelf,plant,50.69605039,post
+624,dsp1_02,well,picnic table,26,post
+624,new_3,bookshelf,piano,4.261930947,post
+624,dsp1_21,wheelbarrow,stove,0.320603378,post
+624,dsp1_13,stove,chair,60.8785415,post
+624,dsp1_09,plant,well,21.38102421,post
+624,new_2,stove,wheelbarrow,31.32060338,post
+624,new_1,well,telescope,4.66135446,post
+624,dsp1_08,telescope,wheelbarrow,20.89392067,post
+624,dsp1_14,stove,bookshelf,8.630211191,post
+624,dsp1_05,mailbox,bookshelf,32.08855685,post
+624,dsp1_16,piano,harp,56.09802519,post
+624,dsp1_10,plant,piano,129.034209,post
+624,dsp1_11,picnic table,wheelbarrow,34.94686305,post
+624,dsp1_07,telescope,trashcan,59.62277151,post
+624,new_7,trashcan,stove,5.462655741,post
+624,dsp1_06,mailbox,harp,30.07515838,post
+624,new_4,picnic table,chair,86.94143873,post
+624,dsp1_23,harp,plant,82.96763749,post
+624,dsp1_03,chair,piano,14.58395499,post
+624,dsp1_22,wheelbarrow,mailbox,75.04795688,post
+624,dsp1_18,trashcan,well,66.64530212,post
+625,dsp1_16,piano,harp,42.09802519,post
+625,dsp1_10,plant,piano,81.965791,post
+625,dsp1_07,telescope,trashcan,164.3772285,post
+625,dsp1_08,telescope,wheelbarrow,117.8939207,post
+625,dsp1_18,trashcan,well,148.3546979,post
+625,new_1,well,telescope,46.33864554,post
+625,dsp1_23,harp,plant,136.9676375,post
+625,dsp1_22,wheelbarrow,mailbox,176.9520431,post
+625,dsp1_14,stove,bookshelf,100.6302112,post
+625,dsp1_19,bookshelf,plant,130.3039496,post
+625,new_6,piano,trashcan,161.313,post
+625,dsp1_13,stove,chair,55.8785415,post
+625,dsp1_24,harp,telescope,167.9527704,post
+625,dsp1_09,plant,well,10.38102421,post
+625,dsp1_11,picnic table,wheelbarrow,132.9468631,post
+625,dsp1_03,chair,piano,40.41604501,post
+625,new_7,trashcan,stove,58.46265574,post
+625,new_5,harp,mailbox,77.85388094,post
+625,dsp1_17,trashcan,picnic table,106.3546979,post
+625,dsp1_21,wheelbarrow,stove,73.67939662,post
+625,new_4,picnic table,chair,103.0585613,post
+625,new_3,bookshelf,piano,168.7380691,post
+625,dsp1_06,mailbox,harp,42.92484162,post
+625,dsp1_02,well,picnic table,6,post
+625,dsp1_04,chair,trashcan,29.75981217,post
+625,new_2,stove,wheelbarrow,22.67939662,post
+625,dsp1_05,mailbox,bookshelf,154.0885568,post
+626,new_3,bookshelf,piano,0.261930947,post
+626,dsp1_16,piano,harp,8.90197481,post
+626,dsp1_14,stove,bookshelf,0.369788809,post
+626,dsp1_07,telescope,trashcan,67.62277151,post
+626,dsp1_24,harp,telescope,47.0472296,post
+626,dsp1_11,picnic table,wheelbarrow,33.05313695,post
+626,dsp1_03,chair,piano,7.583954988,post
+626,dsp1_13,stove,chair,10.8785415,post
+626,dsp1_17,trashcan,picnic table,0.354697881,post
+626,new_1,well,telescope,1.33864554,post
+626,new_4,picnic table,chair,54.94143873,post
+626,dsp1_23,harp,plant,52.96763749,post
+626,dsp1_06,mailbox,harp,0.075158383,post
+626,dsp1_22,wheelbarrow,mailbox,83.04795688,post
+626,new_2,stove,wheelbarrow,4.320603378,post
+626,new_5,harp,mailbox,33.14611906,post
+626,dsp1_21,wheelbarrow,stove,2.320603378,post
+626,new_7,trashcan,stove,18.46265574,post
+626,dsp1_09,plant,well,69.38102421,post
+626,dsp1_19,bookshelf,plant,70.69605039,post
+626,dsp1_08,telescope,wheelbarrow,146.1060793,post
+626,dsp1_18,trashcan,well,30.35469788,post
+626,dsp1_04,chair,trashcan,25.75981217,post
+626,dsp1_02,well,picnic table,115,post
+626,new_6,piano,trashcan,2.687000002,post
+626,dsp1_10,plant,piano,104.965791,post
+626,dsp1_05,mailbox,bookshelf,15.08855685,post
+627,dsp1_24,harp,telescope,35.9527704,post
+627,dsp1_02,well,picnic table,149,post
+627,dsp1_05,mailbox,bookshelf,116.9114432,post
+627,dsp1_06,mailbox,harp,173.9248416,post
+627,dsp1_10,plant,piano,51.965791,post
+627,dsp1_08,telescope,wheelbarrow,137.1060793,post
+627,dsp1_17,trashcan,picnic table,35.64530212,post
+627,new_3,bookshelf,piano,110.2619309,post
+627,new_7,trashcan,stove,62.53734426,post
+627,dsp1_14,stove,bookshelf,1.369788809,post
+627,dsp1_22,wheelbarrow,mailbox,108.0479569,post
+627,dsp1_19,bookshelf,plant,36.69605039,post
+627,new_4,picnic table,chair,148.9414387,post
+627,dsp1_09,plant,well,50.38102421,post
+627,dsp1_11,picnic table,wheelbarrow,172.0531369,post
+627,new_6,piano,trashcan,177.313,post
+627,dsp1_18,trashcan,well,75.35469788,post
+627,new_5,harp,mailbox,84.14611906,post
+627,new_1,well,telescope,27.33864554,post
+627,dsp1_07,telescope,trashcan,149.3772285,post
+627,dsp1_03,chair,piano,75.41604501,post
+627,dsp1_13,stove,chair,118.1214585,post
+627,dsp1_23,harp,plant,134.0323625,post
+627,dsp1_04,chair,trashcan,67.75981217,post
+627,dsp1_16,piano,harp,145.0980252,post
+627,dsp1_21,wheelbarrow,stove,130.6793966,post
+627,new_2,stove,wheelbarrow,132.6793966,post
+628,new_3,bookshelf,piano,71.26193095,post
+628,dsp1_06,mailbox,harp,175.9248416,post
+628,new_2,stove,wheelbarrow,154.3206034,post
+628,dsp1_24,harp,telescope,178.9527704,post
+628,dsp1_03,chair,piano,95.41604501,post
+628,dsp1_17,trashcan,picnic table,50.35469788,post
+628,dsp1_09,plant,well,118.3810242,post
+628,dsp1_10,plant,piano,123.965791,post
+628,dsp1_05,mailbox,bookshelf,27.91144315,post
+628,new_4,picnic table,chair,20.05856127,post
+628,dsp1_23,harp,plant,8.032362509,post
+628,dsp1_18,trashcan,well,55.35469788,post
+628,new_1,well,telescope,73.33864554,post
+628,dsp1_07,telescope,trashcan,40.62277151,post
+628,dsp1_02,well,picnic table,1,post
+628,new_6,piano,trashcan,13.687,post
+628,dsp1_21,wheelbarrow,stove,16.67939662,post
+628,new_5,harp,mailbox,64.85388094,post
+628,dsp1_13,stove,chair,147.8785415,post
+628,dsp1_14,stove,bookshelf,135.6302112,post
+628,dsp1_08,telescope,wheelbarrow,116.1060793,post
+628,dsp1_11,picnic table,wheelbarrow,145.9468631,post
+628,dsp1_16,piano,harp,11.90197481,post
+628,dsp1_19,bookshelf,plant,2.303949608,post
+628,dsp1_22,wheelbarrow,mailbox,31.95204312,post
+628,dsp1_04,chair,trashcan,66.24018783,post
+628,new_7,trashcan,stove,39.53734426,post
+629,dsp1_18,trashcan,well,3.645302119,post
+629,dsp1_06,mailbox,harp,28.07515838,post
+629,dsp1_11,picnic table,wheelbarrow,35.05313695,post
+629,dsp1_14,stove,bookshelf,20.36978881,post
+629,new_3,bookshelf,piano,1.738069053,post
+629,dsp1_02,well,picnic table,9,post
+629,new_1,well,telescope,8.66135446,post
+629,new_7,trashcan,stove,8.462655741,post
+629,dsp1_21,wheelbarrow,stove,30.67939662,post
+629,dsp1_24,harp,telescope,1.047229603,post
+629,new_4,picnic table,chair,14.94143873,post
+629,dsp1_23,harp,plant,10.96763749,post
+629,new_5,harp,mailbox,29.14611906,post
+629,dsp1_08,telescope,wheelbarrow,0.89392067,post
+629,dsp1_22,wheelbarrow,mailbox,17.95204312,post
+629,dsp1_19,bookshelf,plant,6.696050392,post
+629,dsp1_07,telescope,trashcan,11.62277151,post
+629,new_2,stove,wheelbarrow,17.67939662,post
+629,new_6,piano,trashcan,26.687,post
+629,dsp1_04,chair,trashcan,9.24018783,post
+629,dsp1_13,stove,chair,12.1214585,post
+629,dsp1_09,plant,well,0.381024207,post
+629,dsp1_16,piano,harp,5.90197481,post
+629,dsp1_17,trashcan,picnic table,7.645302119,post
+629,dsp1_05,mailbox,bookshelf,11.08855685,post
+629,dsp1_10,plant,piano,31.034209,post
+629,dsp1_03,chair,piano,7.416045012,post
+630,dsp1_10,plant,piano,13.034209,post
+630,dsp1_23,harp,plant,45.96763749,post
+630,dsp1_21,wheelbarrow,stove,19.32060338,post
+630,dsp1_05,mailbox,bookshelf,111.9114432,post
+630,dsp1_19,bookshelf,plant,55.30394961,post
+630,dsp1_14,stove,bookshelf,48.36978881,post
+630,dsp1_22,wheelbarrow,mailbox,178.0479569,post
+630,dsp1_17,trashcan,picnic table,42.64530212,post
+630,dsp1_11,picnic table,wheelbarrow,105.0531369,post
+630,dsp1_02,well,picnic table,19,post
+630,new_6,piano,trashcan,18.687,post
+630,dsp1_04,chair,trashcan,30.24018783,post
+630,new_2,stove,wheelbarrow,96.32060338,post
+630,new_4,picnic table,chair,166.9414387,post
+630,dsp1_16,piano,harp,27.90197481,post
+630,new_7,trashcan,stove,49.46265574,post
+630,dsp1_06,mailbox,harp,20.07515838,post
+630,new_5,harp,mailbox,80.85388094,post
+630,new_1,well,telescope,22.66135446,post
+630,dsp1_09,plant,well,121.3810242,post
+630,dsp1_08,telescope,wheelbarrow,46.89392067,post
+630,dsp1_03,chair,piano,20.41604501,post
+630,dsp1_24,harp,telescope,166.0472296,post
+630,dsp1_07,telescope,trashcan,10.62277151,post
+630,new_3,bookshelf,piano,59.73806905,post
+630,dsp1_13,stove,chair,77.1214585,post
+630,dsp1_18,trashcan,well,9.354697881,post
+631,dsp1_08,telescope,wheelbarrow,43.89392067,post
+631,dsp1_23,harp,plant,136.9676375,post
+631,new_5,harp,mailbox,175.8538809,post
+631,new_7,trashcan,stove,120.4626557,post
+631,new_4,picnic table,chair,87.05856127,post
+631,dsp1_05,mailbox,bookshelf,11.08855685,post
+631,new_2,stove,wheelbarrow,2.320603378,post
+631,dsp1_14,stove,bookshelf,111.6302112,post
+631,dsp1_13,stove,chair,14.1214585,post
+631,new_6,piano,trashcan,16.687,post
+631,dsp1_10,plant,piano,35.965791,post
+631,dsp1_17,trashcan,picnic table,135.6453021,post
+631,dsp1_21,wheelbarrow,stove,135.6793966,post
+631,dsp1_24,harp,telescope,104.0472296,post
+631,dsp1_04,chair,trashcan,3.24018783,post
+631,dsp1_19,bookshelf,plant,39.69605039,post
+631,dsp1_03,chair,piano,10.58395499,post
+631,dsp1_06,mailbox,harp,12.07515838,post
+631,dsp1_09,plant,well,99.38102421,post
+631,dsp1_18,trashcan,well,141.6453021,post
+631,dsp1_22,wheelbarrow,mailbox,40.04795688,post
+631,dsp1_16,piano,harp,65.09802519,post
+631,new_1,well,telescope,4.33864554,post
+631,dsp1_02,well,picnic table,32,post
+631,dsp1_07,telescope,trashcan,40.62277151,post
+631,dsp1_11,picnic table,wheelbarrow,43.94686305,post
+631,new_3,bookshelf,piano,22.73806905,post
+632,dsp1_06,mailbox,harp,132.0751584,post
+632,new_2,stove,wheelbarrow,78.32060338,post
+632,new_7,trashcan,stove,35.53734426,post
+632,dsp1_02,well,picnic table,12,post
+632,dsp1_05,mailbox,bookshelf,158.9114432,post
+632,dsp1_24,harp,telescope,19.9527704,post
+632,new_4,picnic table,chair,168.9414387,post
+632,new_5,harp,mailbox,123.1461191,post
+632,dsp1_16,piano,harp,75.90197481,post
+632,dsp1_14,stove,bookshelf,25.36978881,post
+632,dsp1_07,telescope,trashcan,179.6227715,post
+632,dsp1_03,chair,piano,77.41604501,post
+632,dsp1_23,harp,plant,70.96763749,post
+632,dsp1_22,wheelbarrow,mailbox,159.9520431,post
+632,new_3,bookshelf,piano,108.7380691,post
+632,new_1,well,telescope,24.33864554,post
+632,dsp1_18,trashcan,well,23.35469788,post
+632,dsp1_11,picnic table,wheelbarrow,158.0531369,post
+632,dsp1_09,plant,well,11.38102421,post
+632,dsp1_10,plant,piano,154.965791,post
+632,dsp1_19,bookshelf,plant,165.3039496,post
+632,dsp1_17,trashcan,picnic table,25.35469788,post
+632,dsp1_04,chair,trashcan,53.75981217,post
+632,new_6,piano,trashcan,173.687,post
+632,dsp1_21,wheelbarrow,stove,151.6793966,post
+632,dsp1_13,stove,chair,103.1214585,post
+632,dsp1_08,telescope,wheelbarrow,122.1060793,post
+633,new_6,piano,trashcan,25.687,post
+633,new_2,stove,wheelbarrow,5.679396622,post
+633,dsp1_03,chair,piano,78.58395499,post
+633,dsp1_16,piano,harp,12.90197481,post
+633,dsp1_22,wheelbarrow,mailbox,34.04795688,post
+633,new_5,harp,mailbox,174.8538809,post
+633,new_1,well,telescope,19.33864554,post
+633,dsp1_05,mailbox,bookshelf,9.088556845,post
+633,dsp1_17,trashcan,picnic table,2.645302119,post
+633,dsp1_04,chair,trashcan,69.75981217,post
+633,dsp1_19,bookshelf,plant,43.30394961,post
+633,dsp1_10,plant,piano,57.965791,post
+633,dsp1_08,telescope,wheelbarrow,32.89392067,post
+633,new_3,bookshelf,piano,1.738069053,post
+633,new_7,trashcan,stove,10.46265574,post
+633,dsp1_13,stove,chair,2.878541504,post
+633,dsp1_09,plant,well,87.38102421,post
+633,dsp1_14,stove,bookshelf,22.63021119,post
+633,dsp1_07,telescope,trashcan,5.377228493,post
+633,dsp1_24,harp,telescope,155.0472296,post
+633,dsp1_23,harp,plant,116.9676375,post
+633,dsp1_21,wheelbarrow,stove,18.32060338,post
+633,dsp1_06,mailbox,harp,6.924841617,post
+633,dsp1_18,trashcan,well,153.3546979,post
+633,dsp1_02,well,picnic table,22,post
+633,dsp1_11,picnic table,wheelbarrow,88.05313695,post
+633,new_4,picnic table,chair,174.0585613,post
+634,dsp1_10,plant,piano,171.034209,post
+634,dsp1_17,trashcan,picnic table,29.35469788,post
+634,new_4,picnic table,chair,159.0585613,post
+634,dsp1_06,mailbox,harp,96.07515838,post
+634,dsp1_22,wheelbarrow,mailbox,38.95204312,post
+634,dsp1_13,stove,chair,9.121458496,post
+634,dsp1_14,stove,bookshelf,136.3697888,post
+634,new_1,well,telescope,52.33864554,post
+634,new_7,trashcan,stove,44.53734426,post
+634,dsp1_16,piano,harp,134.0980252,post
+634,dsp1_23,harp,plant,28.03236251,post
+634,dsp1_09,plant,well,13.38102421,post
+634,dsp1_11,picnic table,wheelbarrow,8.053136946,post
+634,dsp1_07,telescope,trashcan,122.6227715,post
+634,dsp1_18,trashcan,well,47.64530212,post
+634,new_6,piano,trashcan,117.687,post
+634,dsp1_19,bookshelf,plant,0.696050392,post
+634,dsp1_08,telescope,wheelbarrow,145.1060793,post
+634,dsp1_04,chair,trashcan,44.75981217,post
+634,dsp1_03,chair,piano,92.41604501,post
+634,dsp1_21,wheelbarrow,stove,109.3206034,post
+634,new_3,bookshelf,piano,121.7380691,post
+634,dsp1_02,well,picnic table,161,post
+634,new_2,stove,wheelbarrow,67.67939662,post
+634,dsp1_05,mailbox,bookshelf,78.91144315,post
+634,dsp1_24,harp,telescope,35.9527704,post
+634,new_5,harp,mailbox,142.1461191,post
+635,dsp1_17,trashcan,picnic table,36.64530212,post
+635,new_6,piano,trashcan,24.687,post
+635,new_4,picnic table,chair,15.05856127,post
+635,dsp1_16,piano,harp,54.90197481,post
+635,dsp1_07,telescope,trashcan,52.62277151,post
+635,new_7,trashcan,stove,13.46265574,post
+635,dsp1_05,mailbox,bookshelf,11.08855685,post
+635,dsp1_09,plant,well,93.61897579,post
+635,dsp1_06,mailbox,harp,116.0751584,post
+635,dsp1_03,chair,piano,1.583954988,post
+635,new_5,harp,mailbox,78.14611906,post
+635,new_1,well,telescope,127.6613545,post
+635,dsp1_08,telescope,wheelbarrow,21.10607933,post
+635,dsp1_11,picnic table,wheelbarrow,6.053136946,post
+635,dsp1_19,bookshelf,plant,116.6960504,post
+635,dsp1_04,chair,trashcan,6.75981217,post
+635,dsp1_22,wheelbarrow,mailbox,106.0479569,post
+635,dsp1_24,harp,telescope,123.0472296,post
+635,new_2,stove,wheelbarrow,12.32060338,post
+635,dsp1_10,plant,piano,95.965791,post
+635,new_3,bookshelf,piano,5.738069053,post
+635,dsp1_14,stove,bookshelf,175.3697888,post
+635,dsp1_02,well,picnic table,33,post
+635,dsp1_13,stove,chair,18.1214585,post
+635,dsp1_18,trashcan,well,102.3546979,post
+635,dsp1_21,wheelbarrow,stove,168.3206034,post
+635,dsp1_23,harp,plant,151.9676375,post
+636,dsp1_06,mailbox,harp,12.92484162,post
+636,dsp1_02,well,picnic table,92,post
+636,new_6,piano,trashcan,29.687,post
+636,dsp1_04,chair,trashcan,19.75981217,post
+636,dsp1_05,mailbox,bookshelf,17.91144315,post
+636,new_7,trashcan,stove,17.46265574,post
+636,dsp1_10,plant,piano,18.965791,post
+636,dsp1_11,picnic table,wheelbarrow,149.0531369,post
+636,dsp1_17,trashcan,picnic table,37.35469788,post
+636,dsp1_08,telescope,wheelbarrow,99.89392067,post
+636,new_1,well,telescope,137.3386455,post
+636,dsp1_19,bookshelf,plant,57.69605039,post
+636,dsp1_16,piano,harp,60.90197481,post
+636,dsp1_24,harp,telescope,131.0472296,post
+636,new_3,bookshelf,piano,3.261930947,post
+636,new_5,harp,mailbox,140.1461191,post
+636,dsp1_18,trashcan,well,18.35469788,post
+636,new_4,picnic table,chair,178.9414387,post
+636,dsp1_23,harp,plant,163.9676375,post
+636,new_2,stove,wheelbarrow,134.3206034,post
+636,dsp1_21,wheelbarrow,stove,117.3206034,post
+636,dsp1_09,plant,well,171.6189758,post
+636,dsp1_03,chair,piano,36.58395499,post
+636,dsp1_14,stove,bookshelf,132.3697888,post
+636,dsp1_07,telescope,trashcan,16.37722849,post
+636,dsp1_22,wheelbarrow,mailbox,111.9520431,post
+636,dsp1_13,stove,chair,142.1214585,post
+637,dsp1_03,chair,piano,85.58395499,post
+637,new_1,well,telescope,77.33864554,post
+637,dsp1_11,picnic table,wheelbarrow,127.0531369,post
+637,new_4,picnic table,chair,169.9414387,post
+637,new_7,trashcan,stove,37.53734426,post
+637,dsp1_16,piano,harp,111.9019748,post
+637,dsp1_21,wheelbarrow,stove,78.67939662,post
+637,dsp1_04,chair,trashcan,90.24018783,post
+637,dsp1_23,harp,plant,156.0323625,post
+637,dsp1_05,mailbox,bookshelf,52.91144315,post
+637,dsp1_09,plant,well,99.38102421,post
+637,dsp1_07,telescope,trashcan,160.3772285,post
+637,dsp1_08,telescope,wheelbarrow,147.8939207,post
+637,dsp1_18,trashcan,well,8.645302119,post
+637,new_3,bookshelf,piano,0.261930947,post
+637,dsp1_17,trashcan,picnic table,45.64530212,post
+637,dsp1_13,stove,chair,23.1214585,post
+637,dsp1_19,bookshelf,plant,134.6960504,post
+637,new_6,piano,trashcan,12.313,post
+637,new_5,harp,mailbox,98.14611906,post
+637,dsp1_02,well,picnic table,119,post
+637,dsp1_24,harp,telescope,179.0472296,post
+637,dsp1_14,stove,bookshelf,53.63021119,post
+637,dsp1_10,plant,piano,94.965791,post
+637,new_2,stove,wheelbarrow,71.32060338,post
+637,dsp1_22,wheelbarrow,mailbox,16.95204312,post
+637,dsp1_06,mailbox,harp,70.92484162,post
+638,dsp1_08,telescope,wheelbarrow,50.89392067,post
+638,dsp1_24,harp,telescope,39.9527704,post
+638,dsp1_07,telescope,trashcan,154.6227715,post
+638,dsp1_04,chair,trashcan,53.24018783,post
+638,new_4,picnic table,chair,178.0585613,post
+638,dsp1_02,well,picnic table,162,post
+638,dsp1_19,bookshelf,plant,130.3039496,post
+638,dsp1_14,stove,bookshelf,40.36978881,post
+638,new_7,trashcan,stove,124.5373443,post
+638,dsp1_16,piano,harp,51.90197481,post
+638,dsp1_09,plant,well,12.38102421,post
+638,dsp1_05,mailbox,bookshelf,31.91144315,post
+638,dsp1_10,plant,piano,87.034209,post
+638,new_3,bookshelf,piano,73.73806905,post
+638,dsp1_03,chair,piano,130.583955,post
+638,dsp1_11,picnic table,wheelbarrow,110.9468631,post
+638,dsp1_21,wheelbarrow,stove,19.67939662,post
+638,dsp1_23,harp,plant,80.96763749,post
+638,dsp1_06,mailbox,harp,1.075158383,post
+638,dsp1_22,wheelbarrow,mailbox,145.9520431,post
+638,new_2,stove,wheelbarrow,78.67939662,post
+638,dsp1_18,trashcan,well,73.64530212,post
+638,new_6,piano,trashcan,17.687,post
+638,new_1,well,telescope,57.33864554,post
+638,dsp1_13,stove,chair,111.1214585,post
+638,dsp1_17,trashcan,picnic table,68.35469788,post
+638,new_5,harp,mailbox,52.85388094,post
+639,dsp1_11,picnic table,wheelbarrow,131.9468631,post
+639,dsp1_04,chair,trashcan,39.75981217,post
+639,dsp1_09,plant,well,29.38102421,post
+639,dsp1_16,piano,harp,136.0980252,post
+639,dsp1_07,telescope,trashcan,67.62277151,post
+639,dsp1_14,stove,bookshelf,60.36978881,post
+639,new_5,harp,mailbox,33.85388094,post
+639,dsp1_10,plant,piano,83.965791,post
+639,new_2,stove,wheelbarrow,33.67939662,post
+639,dsp1_18,trashcan,well,3.645302119,post
+639,dsp1_19,bookshelf,plant,162.3039496,post
+639,new_6,piano,trashcan,179.313,post
+639,dsp1_21,wheelbarrow,stove,28.32060338,post
+639,dsp1_08,telescope,wheelbarrow,36.89392067,post
+639,dsp1_05,mailbox,bookshelf,156.0885568,post
+639,dsp1_24,harp,telescope,179.0472296,post
+639,new_7,trashcan,stove,34.53734426,post
+639,new_3,bookshelf,piano,99.73806905,post
+639,dsp1_13,stove,chair,147.1214585,post
+639,dsp1_03,chair,piano,96.41604501,post
+639,dsp1_06,mailbox,harp,104.9248416,post
+639,dsp1_02,well,picnic table,14,post
+639,dsp1_23,harp,plant,1.032362509,post
+639,new_4,picnic table,chair,171.0585613,post
+639,dsp1_22,wheelbarrow,mailbox,126.0479569,post
+639,new_1,well,telescope,32.33864554,post
+639,dsp1_17,trashcan,picnic table,107.3546979,post
+640,dsp1_13,stove,chair,177.1214585,post
+640,dsp1_11,picnic table,wheelbarrow,168.0531369,post
+640,dsp1_07,telescope,trashcan,172.6227715,post
+640,dsp1_08,telescope,wheelbarrow,103.1060793,post
+640,new_5,harp,mailbox,157.1461191,post
+640,new_1,well,telescope,15.66135446,post
+640,dsp1_14,stove,bookshelf,98.63021119,post
+640,dsp1_10,plant,piano,114.034209,post
+640,new_3,bookshelf,piano,124.7380691,post
+640,dsp1_04,chair,trashcan,115.2401878,post
+640,dsp1_16,piano,harp,165.0980252,post
+640,dsp1_02,well,picnic table,143,post
+640,dsp1_21,wheelbarrow,stove,105.3206034,post
+640,new_4,picnic table,chair,104.9414387,post
+640,dsp1_19,bookshelf,plant,118.3039496,post
+640,dsp1_18,trashcan,well,54.64530212,post
+640,new_6,piano,trashcan,39.313,post
+640,dsp1_06,mailbox,harp,71.92484162,post
+640,dsp1_24,harp,telescope,143.9527704,post
+640,dsp1_09,plant,well,148.3810242,post
+640,dsp1_03,chair,piano,54.41604501,post
+640,new_2,stove,wheelbarrow,101.3206034,post
+640,new_7,trashcan,stove,135.4626557,post
+640,dsp1_23,harp,plant,24.03236251,post
+640,dsp1_05,mailbox,bookshelf,105.0885568,post
+640,dsp1_17,trashcan,picnic table,102.3546979,post
+640,dsp1_22,wheelbarrow,mailbox,170.0479569,post
+641,new_6,piano,trashcan,12.313,post
+641,new_1,well,telescope,16.66135446,post
+641,dsp1_17,trashcan,picnic table,38.35469788,post
+641,new_5,harp,mailbox,2.146119064,post
+641,dsp1_06,mailbox,harp,18.07515838,post
+641,dsp1_03,chair,piano,12.58395499,post
+641,dsp1_13,stove,chair,27.1214585,post
+641,dsp1_22,wheelbarrow,mailbox,16.95204312,post
+641,dsp1_19,bookshelf,plant,21.30394961,post
+641,dsp1_23,harp,plant,3.967637491,post
+641,dsp1_21,wheelbarrow,stove,27.32060338,post
+641,new_4,picnic table,chair,54.94143873,post
+641,dsp1_11,picnic table,wheelbarrow,32.05313695,post
+641,dsp1_10,plant,piano,50.965791,post
+641,dsp1_07,telescope,trashcan,7.622771507,post
+641,dsp1_04,chair,trashcan,1.75981217,post
+641,dsp1_02,well,picnic table,12,post
+641,dsp1_08,telescope,wheelbarrow,5.10607933,post
+641,dsp1_14,stove,bookshelf,1.369788809,post
+641,dsp1_18,trashcan,well,28.64530212,post
+641,dsp1_16,piano,harp,29.09802519,post
+641,dsp1_24,harp,telescope,3.047229603,post
+641,dsp1_09,plant,well,78.38102421,post
+641,dsp1_05,mailbox,bookshelf,3.088556845,post
+641,new_7,trashcan,stove,18.46265574,post
+641,new_3,bookshelf,piano,1.738069053,post
+641,new_2,stove,wheelbarrow,28.32060338,post
+642,new_7,trashcan,stove,8.462655741,post
+642,dsp1_03,chair,piano,56.58395499,post
+642,new_4,picnic table,chair,91.94143873,post
+642,dsp1_19,bookshelf,plant,98.69605039,post
+642,dsp1_07,telescope,trashcan,165.3772285,post
+642,dsp1_05,mailbox,bookshelf,46.91144315,post
+642,new_2,stove,wheelbarrow,12.32060338,post
+642,dsp1_08,telescope,wheelbarrow,108.1060793,post
+642,dsp1_09,plant,well,149.3810242,post
+642,dsp1_06,mailbox,harp,3.924841617,post
+642,dsp1_24,harp,telescope,52.0472296,post
+642,dsp1_10,plant,piano,11.965791,post
+642,new_5,harp,mailbox,168.8538809,post
+642,dsp1_23,harp,plant,163.0323625,post
+642,dsp1_04,chair,trashcan,102.7598122,post
+642,dsp1_17,trashcan,picnic table,31.64530212,post
+642,dsp1_16,piano,harp,47.90197481,post
+642,new_3,bookshelf,piano,1.738069053,post
+642,dsp1_13,stove,chair,18.1214585,post
+642,new_1,well,telescope,104.3386455,post
+642,new_6,piano,trashcan,11.687,post
+642,dsp1_21,wheelbarrow,stove,142.6793966,post
+642,dsp1_18,trashcan,well,24.35469788,post
+642,dsp1_02,well,picnic table,2,post
+642,dsp1_11,picnic table,wheelbarrow,76.05313695,post
+642,dsp1_14,stove,bookshelf,46.36978881,post
+642,dsp1_22,wheelbarrow,mailbox,126.0479569,post
+643,dsp1_13,stove,chair,2.121458496,post
+643,new_4,picnic table,chair,76.94143873,post
+643,dsp1_09,plant,well,125.3810242,post
+643,dsp1_10,plant,piano,8.965790997,post
+643,dsp1_07,telescope,trashcan,139.3772285,post
+643,dsp1_11,picnic table,wheelbarrow,28.05313695,post
+643,new_1,well,telescope,44.66135446,post
+643,dsp1_04,chair,trashcan,150.2401878,post
+643,new_7,trashcan,stove,110.4626557,post
+643,dsp1_14,stove,bookshelf,50.63021119,post
+643,new_6,piano,trashcan,65.687,post
+643,dsp1_22,wheelbarrow,mailbox,151.0479569,post
+643,dsp1_19,bookshelf,plant,37.30394961,post
+643,dsp1_23,harp,plant,133.9676375,post
+643,new_3,bookshelf,piano,124.7380691,post
+643,dsp1_06,mailbox,harp,167.9248416,post
+643,dsp1_17,trashcan,picnic table,42.35469788,post
+643,new_5,harp,mailbox,64.85388094,post
+643,dsp1_02,well,picnic table,169,post
+643,dsp1_21,wheelbarrow,stove,71.67939662,post
+643,dsp1_16,piano,harp,148.9019748,post
+643,new_2,stove,wheelbarrow,178.3206034,post
+643,dsp1_24,harp,telescope,138.9527704,post
+643,dsp1_18,trashcan,well,19.64530212,post
+643,dsp1_03,chair,piano,174.583955,post
+643,dsp1_05,mailbox,bookshelf,159.0885568,post
+643,dsp1_08,telescope,wheelbarrow,122.8939207,post
+645,dsp1_07,telescope,trashcan,79.62277151,post
+645,dsp1_21,wheelbarrow,stove,101.3206034,post
+645,dsp1_03,chair,piano,96.41604501,post
+645,dsp1_08,telescope,wheelbarrow,52.89392067,post
+645,new_7,trashcan,stove,34.46265574,post
+645,dsp1_02,well,picnic table,95,post
+645,new_5,harp,mailbox,56.85388094,post
+645,dsp1_11,picnic table,wheelbarrow,72.05313695,post
+645,dsp1_10,plant,piano,41.965791,post
+645,dsp1_19,bookshelf,plant,162.6960504,post
+645,new_2,stove,wheelbarrow,156.3206034,post
+645,new_6,piano,trashcan,2.687000002,post
+645,new_3,bookshelf,piano,20.73806905,post
+645,new_4,picnic table,chair,71.94143873,post
+645,dsp1_14,stove,bookshelf,76.36978881,post
+645,dsp1_05,mailbox,bookshelf,3.911443155,post
+645,dsp1_23,harp,plant,64.96763749,post
+645,dsp1_13,stove,chair,6.878541504,post
+645,dsp1_16,piano,harp,40.90197481,post
+645,dsp1_18,trashcan,well,145.3546979,post
+645,new_1,well,telescope,80.66135446,post
+645,dsp1_24,harp,telescope,155.9527704,post
+645,dsp1_06,mailbox,harp,170.0751584,post
+645,dsp1_22,wheelbarrow,mailbox,10.95204312,post
+645,dsp1_17,trashcan,picnic table,17.35469788,post
+645,dsp1_09,plant,well,175.6189758,post
+645,dsp1_04,chair,trashcan,35.75981217,post
+646,dsp1_08,telescope,wheelbarrow,34.89392067,post
+646,dsp1_03,chair,piano,6.416045012,post
+646,dsp1_10,plant,piano,17.965791,post
+646,new_6,piano,trashcan,38.687,post
+646,new_5,harp,mailbox,28.14611906,post
+646,new_4,picnic table,chair,34.05856127,post
+646,dsp1_13,stove,chair,31.8785415,post
+646,dsp1_19,bookshelf,plant,57.69605039,post
+646,dsp1_22,wheelbarrow,mailbox,8.047956877,post
+646,new_7,trashcan,stove,22.53734426,post
+646,dsp1_07,telescope,trashcan,34.62277151,post
+646,new_1,well,telescope,28.33864554,post
+646,dsp1_05,mailbox,bookshelf,10.08855685,post
+646,dsp1_17,trashcan,picnic table,40.64530212,post
+646,dsp1_24,harp,telescope,37.9527704,post
+646,dsp1_18,trashcan,well,15.64530212,post
+646,dsp1_02,well,picnic table,24,post
+646,dsp1_06,mailbox,harp,31.07515838,post
+646,dsp1_14,stove,bookshelf,10.63021119,post
+646,dsp1_23,harp,plant,40.03236251,post
+646,new_3,bookshelf,piano,2.738069053,post
+646,dsp1_04,chair,trashcan,14.75981217,post
+646,dsp1_09,plant,well,33.38102421,post
+646,dsp1_11,picnic table,wheelbarrow,32.94686305,post
+646,dsp1_21,wheelbarrow,stove,52.32060338,post
+646,dsp1_16,piano,harp,1.09802519,post
+646,new_2,stove,wheelbarrow,26.32060338,post
+647,dsp1_19,bookshelf,plant,41.69605039,post
+647,dsp1_17,trashcan,picnic table,24.64530212,post
+647,dsp1_03,chair,piano,44.41604501,post
+647,dsp1_07,telescope,trashcan,90.37722849,post
+647,dsp1_16,piano,harp,15.09802519,post
+647,dsp1_09,plant,well,109.3810242,post
+647,dsp1_06,mailbox,harp,125.9248416,post
+647,dsp1_11,picnic table,wheelbarrow,99.94686305,post
+647,dsp1_22,wheelbarrow,mailbox,92.04795688,post
+647,new_5,harp,mailbox,19.14611906,post
+647,new_7,trashcan,stove,47.53734426,post
+647,new_2,stove,wheelbarrow,3.320603378,post
+647,dsp1_18,trashcan,well,43.64530212,post
+647,dsp1_10,plant,piano,1.965790997,post
+647,dsp1_08,telescope,wheelbarrow,76.10607933,post
+647,new_6,piano,trashcan,18.687,post
+647,dsp1_21,wheelbarrow,stove,3.320603378,post
+647,dsp1_04,chair,trashcan,45.24018783,post
+647,dsp1_13,stove,chair,146.8785415,post
+647,dsp1_24,harp,telescope,64.0472296,post
+647,new_4,picnic table,chair,70.05856127,post
+647,dsp1_23,harp,plant,29.96763749,post
+647,dsp1_14,stove,bookshelf,5.369788809,post
+647,new_1,well,telescope,81.66135446,post
+647,dsp1_02,well,picnic table,50,post
+647,new_3,bookshelf,piano,35.73806905,post
+647,dsp1_05,mailbox,bookshelf,1.911443155,post
+648,dsp1_02,well,picnic table,52,post
+648,dsp1_21,wheelbarrow,stove,20.32060338,post
+648,dsp1_05,mailbox,bookshelf,36.08855685,post
+648,dsp1_22,wheelbarrow,mailbox,8.047956877,post
+648,new_1,well,telescope,73.66135446,post
+648,dsp1_23,harp,plant,159.0323625,post
+648,new_7,trashcan,stove,3.462655741,post
+648,new_4,picnic table,chair,10.05856127,post
+648,dsp1_14,stove,bookshelf,8.630211191,post
+648,dsp1_24,harp,telescope,3.952770397,post
+648,dsp1_10,plant,piano,23.965791,post
+648,dsp1_17,trashcan,picnic table,6.645302119,post
+648,new_2,stove,wheelbarrow,34.32060338,post
+648,dsp1_08,telescope,wheelbarrow,161.1060793,post
+648,dsp1_07,telescope,trashcan,18.62277151,post
+648,dsp1_19,bookshelf,plant,3.696050392,post
+648,dsp1_13,stove,chair,28.8785415,post
+648,dsp1_03,chair,piano,3.416045012,post
+648,new_5,harp,mailbox,31.14611906,post
+648,dsp1_04,chair,trashcan,17.75981217,post
+648,new_3,bookshelf,piano,1.261930947,post
+648,dsp1_09,plant,well,29.61897579,post
+648,dsp1_06,mailbox,harp,17.07515838,post
+648,dsp1_18,trashcan,well,4.645302119,post
+648,dsp1_11,picnic table,wheelbarrow,47.94686305,post
+648,new_6,piano,trashcan,14.687,post
+648,dsp1_16,piano,harp,2.90197481,post
+649,dsp1_21,wheelbarrow,stove,172.3206034,post
+649,dsp1_22,wheelbarrow,mailbox,148.9520431,post
+649,new_2,stove,wheelbarrow,167.6793966,post
+649,new_6,piano,trashcan,30.687,post
+649,dsp1_17,trashcan,picnic table,55.64530212,post
+649,dsp1_11,picnic table,wheelbarrow,149.9468631,post
+649,new_1,well,telescope,99.66135446,post
+649,dsp1_04,chair,trashcan,36.24018783,post
+649,dsp1_24,harp,telescope,169.0472296,post
+649,new_3,bookshelf,piano,15.73806905,post
+649,dsp1_13,stove,chair,109.1214585,post
+649,dsp1_06,mailbox,harp,2.924841617,post
+649,dsp1_23,harp,plant,5.032362509,post
+649,dsp1_14,stove,bookshelf,57.63021119,post
+649,dsp1_10,plant,piano,131.965791,post
+649,dsp1_05,mailbox,bookshelf,85.91144315,post
+649,dsp1_03,chair,piano,68.41604501,post
+649,dsp1_02,well,picnic table,25,post
+649,dsp1_19,bookshelf,plant,0.696050392,post
+649,dsp1_09,plant,well,75.61897579,post
+649,dsp1_18,trashcan,well,131.3546979,post
+649,new_5,harp,mailbox,144.1461191,post
+649,dsp1_16,piano,harp,39.90197481,post
+649,dsp1_08,telescope,wheelbarrow,147.1060793,post
+649,new_7,trashcan,stove,48.53734426,post
+649,new_4,picnic table,chair,176.0585613,post
+649,dsp1_07,telescope,trashcan,144.6227715,post
+650,dsp1_10,plant,piano,40.034209,post
+650,dsp1_22,wheelbarrow,mailbox,73.95204312,post
+650,dsp1_16,piano,harp,14.90197481,post
+650,new_4,picnic table,chair,118.9414387,post
+650,dsp1_11,picnic table,wheelbarrow,82.05313695,post
+650,dsp1_24,harp,telescope,77.9527704,post
+650,dsp1_23,harp,plant,97.96763749,post
+650,dsp1_09,plant,well,45.61897579,post
+650,new_2,stove,wheelbarrow,20.32060338,post
+650,dsp1_18,trashcan,well,130.3546979,post
+650,new_1,well,telescope,11.66135446,post
+650,new_5,harp,mailbox,113.8538809,post
+650,dsp1_17,trashcan,picnic table,58.64530212,post
+650,dsp1_13,stove,chair,64.1214585,post
+650,dsp1_04,chair,trashcan,62.75981217,post
+650,new_7,trashcan,stove,40.46265574,post
+650,new_3,bookshelf,piano,32.73806905,post
+650,dsp1_07,telescope,trashcan,112.6227715,post
+650,dsp1_05,mailbox,bookshelf,82.08855685,post
+650,dsp1_21,wheelbarrow,stove,24.32060338,post
+650,dsp1_14,stove,bookshelf,7.369788809,post
+650,dsp1_06,mailbox,harp,80.92484162,post
+650,dsp1_02,well,picnic table,26,post
+650,dsp1_08,telescope,wheelbarrow,49.89392067,post
+650,new_6,piano,trashcan,6.312999998,post
+650,dsp1_03,chair,piano,28.58395499,post
+650,dsp1_19,bookshelf,plant,34.69605039,post
+651,dsp1_21,wheelbarrow,stove,3.679396622,post
+651,dsp1_11,picnic table,wheelbarrow,168.0531369,post
+651,dsp1_17,trashcan,picnic table,24.64530212,post
+651,new_2,stove,wheelbarrow,86.67939662,post
+651,dsp1_19,bookshelf,plant,58.69605039,post
+651,new_1,well,telescope,121.3386455,post
+651,dsp1_10,plant,piano,33.965791,post
+651,dsp1_14,stove,bookshelf,145.6302112,post
+651,dsp1_03,chair,piano,64.41604501,post
+651,dsp1_06,mailbox,harp,18.07515838,post
+651,dsp1_13,stove,chair,84.1214585,post
+651,dsp1_09,plant,well,8.381024207,post
+651,dsp1_02,well,picnic table,18,post
+651,dsp1_18,trashcan,well,36.35469788,post
+651,new_4,picnic table,chair,95.94143873,post
+651,dsp1_04,chair,trashcan,61.24018783,post
+651,dsp1_05,mailbox,bookshelf,14.08855685,post
+651,new_5,harp,mailbox,4.146119064,post
+651,dsp1_07,telescope,trashcan,25.37722849,post
+651,dsp1_24,harp,telescope,117.0472296,post
+651,dsp1_16,piano,harp,47.09802519,post
+651,new_6,piano,trashcan,28.687,post
+651,dsp1_08,telescope,wheelbarrow,44.89392067,post
+651,dsp1_22,wheelbarrow,mailbox,87.95204312,post
+651,new_7,trashcan,stove,15.46265574,post
+651,new_3,bookshelf,piano,155.7380691,post
+651,dsp1_23,harp,plant,9.032362509,post
+653,dsp1_02,well,picnic table,8,post
+653,dsp1_17,trashcan,picnic table,35.35469788,post
+653,dsp1_21,wheelbarrow,stove,175.3206034,post
+653,dsp1_05,mailbox,bookshelf,4.088556845,post
+653,new_4,picnic table,chair,160.9414387,post
+653,dsp1_03,chair,piano,95.41604501,post
+653,dsp1_09,plant,well,23.38102421,post
+653,dsp1_08,telescope,wheelbarrow,52.89392067,post
+653,new_6,piano,trashcan,1.312999998,post
+653,new_1,well,telescope,41.33864554,post
+653,dsp1_10,plant,piano,172.965791,post
+653,dsp1_23,harp,plant,111.0323625,post
+653,dsp1_11,picnic table,wheelbarrow,84.05313695,post
+653,dsp1_04,chair,trashcan,61.24018783,post
+653,dsp1_18,trashcan,well,132.3546979,post
+653,dsp1_22,wheelbarrow,mailbox,67.95204312,post
+653,dsp1_16,piano,harp,42.90197481,post
+653,new_5,harp,mailbox,162.8538809,post
+653,new_7,trashcan,stove,56.53734426,post
+653,dsp1_24,harp,telescope,128.9527704,post
+653,new_3,bookshelf,piano,50.26193095,post
+653,dsp1_06,mailbox,harp,80.92484162,post
+653,dsp1_19,bookshelf,plant,130.3039496,post
+653,new_2,stove,wheelbarrow,1.320603378,post
+653,dsp1_13,stove,chair,102.1214585,post
+653,dsp1_14,stove,bookshelf,32.36978881,post
+653,dsp1_07,telescope,trashcan,24.37722849,post
+656,dsp1_11,picnic table,wheelbarrow,24.05313695,post
+656,dsp1_14,stove,bookshelf,54.63021119,post
+656,dsp1_04,chair,trashcan,66.75981217,post
+656,dsp1_23,harp,plant,40.96763749,post
+656,dsp1_03,chair,piano,75.58395499,post
+656,new_3,bookshelf,piano,116.7380691,post
+656,dsp1_18,trashcan,well,146.3546979,post
+656,dsp1_05,mailbox,bookshelf,162.0885568,post
+656,dsp1_08,telescope,wheelbarrow,36.10607933,post
+656,new_4,picnic table,chair,14.05856127,post
+656,dsp1_21,wheelbarrow,stove,122.6793966,post
+656,dsp1_19,bookshelf,plant,135.6960504,post
+656,dsp1_17,trashcan,picnic table,26.35469788,post
+656,new_7,trashcan,stove,101.4626557,post
+656,new_1,well,telescope,15.33864554,post
+656,dsp1_06,mailbox,harp,0.924841617,post
+656,dsp1_24,harp,telescope,106.0472296,post
+656,dsp1_13,stove,chair,22.1214585,post
+656,dsp1_16,piano,harp,171.9019748,post
+656,new_5,harp,mailbox,146.1461191,post
+656,dsp1_02,well,picnic table,23,post
+656,dsp1_22,wheelbarrow,mailbox,43.04795688,post
+656,new_6,piano,trashcan,69.687,post
+656,dsp1_07,telescope,trashcan,137.6227715,post
+656,dsp1_09,plant,well,129.3810242,post
+656,dsp1_10,plant,piano,20.965791,post
+656,new_2,stove,wheelbarrow,0.320603378,post
+657,new_1,well,telescope,99.66135446,post
+657,new_4,picnic table,chair,162.0585613,post
+657,dsp1_23,harp,plant,8.967637491,post
+657,dsp1_05,mailbox,bookshelf,48.91144315,post
+657,dsp1_19,bookshelf,plant,158.6960504,post
+657,dsp1_21,wheelbarrow,stove,48.67939662,post
+657,dsp1_11,picnic table,wheelbarrow,149.9468631,post
+657,dsp1_14,stove,bookshelf,71.36978881,post
+657,dsp1_06,mailbox,harp,35.92484162,post
+657,dsp1_10,plant,piano,31.965791,post
+657,dsp1_22,wheelbarrow,mailbox,35.95204312,post
+657,dsp1_24,harp,telescope,179.9527704,post
+657,dsp1_03,chair,piano,66.41604501,post
+657,new_3,bookshelf,piano,0.261930947,post
+657,new_7,trashcan,stove,124.5373443,post
+657,new_6,piano,trashcan,21.687,post
+657,new_2,stove,wheelbarrow,51.67939662,post
+657,dsp1_04,chair,trashcan,16.75981217,post
+657,dsp1_17,trashcan,picnic table,64.64530212,post
+657,dsp1_08,telescope,wheelbarrow,67.89392067,post
+657,dsp1_09,plant,well,23.38102421,post
+657,dsp1_07,telescope,trashcan,59.62277151,post
+657,dsp1_13,stove,chair,52.8785415,post
+657,dsp1_18,trashcan,well,7.354697881,post
+657,dsp1_02,well,picnic table,128,post
+657,new_5,harp,mailbox,85.14611906,post
+657,dsp1_16,piano,harp,66.90197481,post
+658,new_6,piano,trashcan,7.312999998,post
+658,dsp1_14,stove,bookshelf,74.36978881,post
+658,dsp1_10,plant,piano,89.965791,post
+658,dsp1_02,well,picnic table,100,post
+658,dsp1_05,mailbox,bookshelf,20.91144315,post
+658,dsp1_19,bookshelf,plant,28.30394961,post
+658,dsp1_13,stove,chair,129.1214585,post
+658,dsp1_21,wheelbarrow,stove,154.3206034,post
+658,dsp1_18,trashcan,well,26.35469788,post
+658,dsp1_22,wheelbarrow,mailbox,4.952043123,post
+658,dsp1_23,harp,plant,136.0323625,post
+658,dsp1_04,chair,trashcan,31.75981217,post
+658,new_7,trashcan,stove,57.46265574,post
+658,new_2,stove,wheelbarrow,93.32060338,post
+658,dsp1_03,chair,piano,29.58395499,post
+658,dsp1_09,plant,well,103.3810242,post
+658,dsp1_24,harp,telescope,165.0472296,post
+658,new_5,harp,mailbox,94.14611906,post
+658,dsp1_11,picnic table,wheelbarrow,177.0531369,post
+658,dsp1_17,trashcan,picnic table,24.64530212,post
+658,dsp1_07,telescope,trashcan,89.62277151,post
+658,new_3,bookshelf,piano,36.73806905,post
+658,new_4,picnic table,chair,63.05856127,post
+658,dsp1_16,piano,harp,24.09802519,post
+658,dsp1_06,mailbox,harp,175.0751584,post
+658,dsp1_08,telescope,wheelbarrow,74.89392067,post
+658,new_1,well,telescope,58.66135446,post
+660,new_2,stove,wheelbarrow,13.67939662,post
+660,dsp1_23,harp,plant,40.03236251,post
+660,new_1,well,telescope,29.33864554,post
+660,dsp1_09,plant,well,16.38102421,post
+660,dsp1_21,wheelbarrow,stove,11.32060338,post
+660,dsp1_13,stove,chair,3.121458496,post
+660,new_6,piano,trashcan,17.687,post
+660,dsp1_06,mailbox,harp,3.075158383,post
+660,dsp1_14,stove,bookshelf,31.36978881,post
+660,dsp1_24,harp,telescope,57.9527704,post
+660,dsp1_02,well,picnic table,26,post
+660,dsp1_19,bookshelf,plant,55.69605039,post
+660,new_4,picnic table,chair,79.94143873,post
+660,dsp1_11,picnic table,wheelbarrow,6.946863054,post
+660,new_7,trashcan,stove,43.46265574,post
+660,dsp1_16,piano,harp,39.90197481,post
+660,dsp1_07,telescope,trashcan,23.62277151,post
+660,dsp1_18,trashcan,well,64.64530212,post
+660,dsp1_10,plant,piano,14.034209,post
+660,dsp1_22,wheelbarrow,mailbox,12.04795688,post
+660,dsp1_03,chair,piano,49.58395499,post
+660,dsp1_04,chair,trashcan,49.75981217,post
+660,dsp1_17,trashcan,picnic table,86.64530212,post
+660,dsp1_05,mailbox,bookshelf,5.088556845,post
+660,new_3,bookshelf,piano,37.26193095,post
+660,dsp1_08,telescope,wheelbarrow,38.89392067,post
+660,new_5,harp,mailbox,89.85388094,post
+662,new_3,bookshelf,piano,75.73806905,post
+662,new_2,stove,wheelbarrow,102.3206034,post
+662,dsp1_05,mailbox,bookshelf,22.91144315,post
+662,new_7,trashcan,stove,103.4626557,post
+662,dsp1_24,harp,telescope,89.0472296,post
+662,dsp1_07,telescope,trashcan,49.37722849,post
+662,dsp1_16,piano,harp,30.90197481,post
+662,new_6,piano,trashcan,1.312999998,post
+662,dsp1_09,plant,well,19.38102421,post
+662,dsp1_18,trashcan,well,30.35469788,post
+662,dsp1_08,telescope,wheelbarrow,54.10607933,post
+662,dsp1_03,chair,piano,70.41604501,post
+662,dsp1_14,stove,bookshelf,63.63021119,post
+662,dsp1_04,chair,trashcan,48.24018783,post
+662,dsp1_02,well,picnic table,9,post
+662,new_4,picnic table,chair,160.0585613,post
+662,dsp1_17,trashcan,picnic table,0.354697881,post
+662,dsp1_23,harp,plant,41.96763749,post
+662,new_5,harp,mailbox,8.853880936,post
+662,dsp1_10,plant,piano,23.965791,post
+662,dsp1_13,stove,chair,13.1214585,post
+662,dsp1_21,wheelbarrow,stove,120.3206034,post
+662,dsp1_22,wheelbarrow,mailbox,137.0479569,post
+662,dsp1_11,picnic table,wheelbarrow,163.0531369,post
+662,dsp1_19,bookshelf,plant,178.6960504,post
+662,dsp1_06,mailbox,harp,144.0751584,post
+662,new_1,well,telescope,62.66135446,post
+663,new_4,picnic table,chair,64.94143873,post
+663,dsp1_22,wheelbarrow,mailbox,68.95204312,post
+663,new_3,bookshelf,piano,134.7380691,post
+663,dsp1_07,telescope,trashcan,21.37722849,post
+663,dsp1_21,wheelbarrow,stove,15.32060338,post
+663,dsp1_11,picnic table,wheelbarrow,102.0531369,post
+663,dsp1_23,harp,plant,53.03236251,post
+663,dsp1_18,trashcan,well,52.64530212,post
+663,dsp1_06,mailbox,harp,80.07515838,post
+663,new_5,harp,mailbox,165.8538809,post
+663,dsp1_16,piano,harp,156.9019748,post
+663,new_2,stove,wheelbarrow,79.32060338,post
+663,dsp1_08,telescope,wheelbarrow,32.89392067,post
+663,new_1,well,telescope,160.6613545,post
+663,dsp1_19,bookshelf,plant,106.3039496,post
+663,dsp1_04,chair,trashcan,80.24018783,post
+663,dsp1_10,plant,piano,102.965791,post
+663,dsp1_14,stove,bookshelf,39.36978881,post
+663,dsp1_13,stove,chair,31.1214585,post
+663,dsp1_03,chair,piano,30.41604501,post
+663,dsp1_17,trashcan,picnic table,92.35469788,post
+663,dsp1_09,plant,well,96.38102421,post
+663,dsp1_05,mailbox,bookshelf,23.91144315,post
+663,dsp1_24,harp,telescope,70.9527704,post
+663,new_6,piano,trashcan,36.687,post
+663,new_7,trashcan,stove,134.5373443,post
+663,dsp1_02,well,picnic table,82,post
+664,dsp1_24,harp,telescope,148.9527704,post
+664,dsp1_17,trashcan,picnic table,106.3546979,post
+664,dsp1_23,harp,plant,173.9676375,post
+664,dsp1_02,well,picnic table,21,post
+664,dsp1_05,mailbox,bookshelf,13.91144315,post
+664,dsp1_04,chair,trashcan,54.24018783,post
+664,dsp1_21,wheelbarrow,stove,177.3206034,post
+664,dsp1_09,plant,well,43.61897579,post
+664,dsp1_08,telescope,wheelbarrow,53.89392067,post
+664,dsp1_07,telescope,trashcan,18.37722849,post
+664,dsp1_03,chair,piano,35.41604501,post
+664,dsp1_22,wheelbarrow,mailbox,45.95204312,post
+664,dsp1_18,trashcan,well,62.64530212,post
+664,dsp1_10,plant,piano,4.034209003,post
+664,new_5,harp,mailbox,102.1461191,post
+664,new_1,well,telescope,10.66135446,post
+664,new_7,trashcan,stove,109.5373443,post
+664,dsp1_19,bookshelf,plant,135.3039496,post
+664,new_3,bookshelf,piano,16.73806905,post
+664,new_4,picnic table,chair,99.05856127,post
+664,dsp1_13,stove,chair,177.1214585,post
+664,new_2,stove,wheelbarrow,55.67939662,post
+664,new_6,piano,trashcan,28.687,post
+664,dsp1_11,picnic table,wheelbarrow,60.05313695,post
+664,dsp1_14,stove,bookshelf,113.3697888,post
+664,dsp1_16,piano,harp,43.90197481,post
+664,dsp1_06,mailbox,harp,11.07515838,post
+665,new_2,stove,wheelbarrow,130.3206034,post
+665,dsp1_05,mailbox,bookshelf,29.91144315,post
+665,dsp1_08,telescope,wheelbarrow,56.10607933,post
+665,dsp1_07,telescope,trashcan,161.6227715,post
+665,dsp1_22,wheelbarrow,mailbox,1.047956877,post
+665,dsp1_11,picnic table,wheelbarrow,41.05313695,post
+665,dsp1_06,mailbox,harp,18.07515838,post
+665,dsp1_13,stove,chair,148.1214585,post
+665,new_6,piano,trashcan,69.687,post
+665,dsp1_24,harp,telescope,8.952770397,post
+665,dsp1_09,plant,well,91.38102421,post
+665,new_1,well,telescope,41.66135446,post
+665,new_5,harp,mailbox,0.146119064,post
+665,dsp1_03,chair,piano,13.41604501,post
+665,new_7,trashcan,stove,115.5373443,post
+665,dsp1_04,chair,trashcan,22.24018783,post
+665,dsp1_14,stove,bookshelf,107.6302112,post
+665,dsp1_23,harp,plant,116.0323625,post
+665,dsp1_18,trashcan,well,5.354697881,post
+665,new_4,picnic table,chair,123.9414387,post
+665,dsp1_17,trashcan,picnic table,139.6453021,post
+665,dsp1_02,well,picnic table,163,post
+665,dsp1_16,piano,harp,61.90197481,post
+665,new_3,bookshelf,piano,0.261930947,post
+665,dsp1_10,plant,piano,39.965791,post
+665,dsp1_21,wheelbarrow,stove,21.32060338,post
+665,dsp1_19,bookshelf,plant,8.696050392,post
+666,dsp1_18,trashcan,well,9.645302119,post
+666,new_3,bookshelf,piano,10.73806905,post
+666,dsp1_03,chair,piano,176.416045,post
+666,new_7,trashcan,stove,17.46265574,post
+666,dsp1_23,harp,plant,42.03236251,post
+666,dsp1_14,stove,bookshelf,12.36978881,post
+666,new_1,well,telescope,12.33864554,post
+666,new_6,piano,trashcan,21.687,post
+666,dsp1_04,chair,trashcan,3.75981217,post
+666,dsp1_19,bookshelf,plant,133.6960504,post
+666,dsp1_06,mailbox,harp,7.075158383,post
+666,dsp1_09,plant,well,98.38102421,post
+666,new_2,stove,wheelbarrow,3.679396622,post
+666,dsp1_08,telescope,wheelbarrow,3.89392067,post
+666,new_5,harp,mailbox,8.146119064,post
+666,dsp1_02,well,picnic table,6,post
+666,dsp1_22,wheelbarrow,mailbox,16.04795688,post
+666,dsp1_21,wheelbarrow,stove,17.32060338,post
+666,dsp1_24,harp,telescope,0.952770397,post
+666,dsp1_11,picnic table,wheelbarrow,10.94686305,post
+666,dsp1_10,plant,piano,9.965790997,post
+666,dsp1_13,stove,chair,21.1214585,post
+666,new_4,picnic table,chair,13.05856127,post
+666,dsp1_17,trashcan,picnic table,6.645302119,post
+666,dsp1_07,telescope,trashcan,3.377228493,post
+666,dsp1_05,mailbox,bookshelf,12.91144315,post
+666,dsp1_16,piano,harp,8.90197481,post
+667,dsp1_22,wheelbarrow,mailbox,7.952043123,post
+667,dsp1_09,plant,well,50.61897579,post
+667,dsp1_23,harp,plant,155.9676375,post
+667,dsp1_02,well,picnic table,54,post
+667,dsp1_07,telescope,trashcan,121.6227715,post
+667,new_6,piano,trashcan,61.687,post
+667,new_3,bookshelf,piano,107.7380691,post
+667,new_1,well,telescope,5.66135446,post
+667,dsp1_04,chair,trashcan,138.7598122,post
+667,dsp1_18,trashcan,well,154.6453021,post
+667,dsp1_19,bookshelf,plant,162.6960504,post
+667,new_7,trashcan,stove,119.4626557,post
+667,dsp1_13,stove,chair,85.1214585,post
+667,dsp1_21,wheelbarrow,stove,164.3206034,post
+667,dsp1_10,plant,piano,0.034209003,post
+667,dsp1_05,mailbox,bookshelf,130.0885568,post
+667,dsp1_11,picnic table,wheelbarrow,16.94686305,post
+667,dsp1_24,harp,telescope,125.0472296,post
+667,dsp1_17,trashcan,picnic table,120.6453021,post
+667,new_2,stove,wheelbarrow,78.32060338,post
+667,dsp1_16,piano,harp,103.0980252,post
+667,dsp1_14,stove,bookshelf,35.36978881,post
+667,dsp1_03,chair,piano,34.41604501,post
+667,dsp1_06,mailbox,harp,145.9248416,post
+667,new_5,harp,mailbox,154.8538809,post
+667,new_4,picnic table,chair,164.9414387,post
+667,dsp1_08,telescope,wheelbarrow,143.8939207,post
+668,dsp1_08,telescope,wheelbarrow,133.1060793,post
+668,dsp1_07,telescope,trashcan,133.3772285,post
+668,dsp1_19,bookshelf,plant,142.6960504,post
+668,dsp1_06,mailbox,harp,32.92484162,post
+668,new_7,trashcan,stove,37.46265574,post
+668,new_1,well,telescope,25.33864554,post
+668,dsp1_16,piano,harp,164.9019748,post
+668,new_4,picnic table,chair,54.94143873,post
+668,dsp1_05,mailbox,bookshelf,165.0885568,post
+668,dsp1_14,stove,bookshelf,141.6302112,post
+668,dsp1_04,chair,trashcan,136.2401878,post
+668,dsp1_24,harp,telescope,155.0472296,post
+668,dsp1_02,well,picnic table,13,post
+668,dsp1_22,wheelbarrow,mailbox,37.95204312,post
+668,dsp1_18,trashcan,well,63.35469788,post
+668,dsp1_21,wheelbarrow,stove,172.6793966,post
+668,new_3,bookshelf,piano,0.738069053,post
+668,dsp1_13,stove,chair,43.1214585,post
+668,dsp1_09,plant,well,90.38102421,post
+668,new_2,stove,wheelbarrow,2.320603378,post
+668,dsp1_17,trashcan,picnic table,68.64530212,post
+668,dsp1_03,chair,piano,121.416045,post
+668,new_6,piano,trashcan,23.687,post
+668,dsp1_23,harp,plant,25.96763749,post
+668,dsp1_11,picnic table,wheelbarrow,101.0531369,post
+668,new_5,harp,mailbox,162.1461191,post
+668,dsp1_10,plant,piano,98.965791,post
+669,dsp1_22,wheelbarrow,mailbox,24.04795688,post
+669,new_2,stove,wheelbarrow,2.320603378,post
+669,dsp1_14,stove,bookshelf,10.36978881,post
+669,dsp1_02,well,picnic table,19,post
+669,dsp1_21,wheelbarrow,stove,20.32060338,post
+669,new_1,well,telescope,31.66135446,post
+669,dsp1_11,picnic table,wheelbarrow,87.94686305,post
+669,dsp1_17,trashcan,picnic table,2.645302119,post
+669,dsp1_13,stove,chair,7.878541504,post
+669,new_4,picnic table,chair,174.0585613,post
+669,new_3,bookshelf,piano,14.26193095,post
+669,dsp1_10,plant,piano,57.965791,post
+669,new_6,piano,trashcan,21.687,post
+669,dsp1_06,mailbox,harp,10.92484162,post
+669,new_7,trashcan,stove,16.46265574,post
+669,dsp1_07,telescope,trashcan,9.622771507,post
+669,dsp1_05,mailbox,bookshelf,29.91144315,post
+669,dsp1_24,harp,telescope,25.0472296,post
+669,dsp1_19,bookshelf,plant,4.303949608,post
+669,dsp1_08,telescope,wheelbarrow,2.89392067,post
+669,dsp1_03,chair,piano,8.416045012,post
+669,dsp1_18,trashcan,well,9.645302119,post
+669,dsp1_09,plant,well,73.38102421,post
+669,dsp1_04,chair,trashcan,12.24018783,post
+669,dsp1_16,piano,harp,0.09802519,post
+669,dsp1_23,harp,plant,1.032362509,post
+669,new_5,harp,mailbox,10.85388094,post
+670,dsp1_02,well,picnic table,12,post
+670,dsp1_23,harp,plant,137.9676375,post
+670,dsp1_03,chair,piano,20.41604501,post
+670,dsp1_05,mailbox,bookshelf,14.08855685,post
+670,new_1,well,telescope,49.66135446,post
+670,new_5,harp,mailbox,118.1461191,post
+670,dsp1_04,chair,trashcan,41.24018783,post
+670,dsp1_17,trashcan,picnic table,4.354697881,post
+670,dsp1_13,stove,chair,40.1214585,post
+670,new_2,stove,wheelbarrow,31.32060338,post
+670,dsp1_11,picnic table,wheelbarrow,65.05313695,post
+670,dsp1_06,mailbox,harp,36.07515838,post
+670,new_7,trashcan,stove,5.537344259,post
+670,new_3,bookshelf,piano,0.738069053,post
+670,dsp1_14,stove,bookshelf,1.369788809,post
+670,dsp1_08,telescope,wheelbarrow,91.89392067,post
+670,new_6,piano,trashcan,17.687,post
+670,dsp1_18,trashcan,well,42.35469788,post
+670,new_4,picnic table,chair,106.0585613,post
+670,dsp1_16,piano,harp,164.0980252,post
+670,dsp1_22,wheelbarrow,mailbox,113.9520431,post
+670,dsp1_24,harp,telescope,41.0472296,post
+670,dsp1_19,bookshelf,plant,172.3039496,post
+670,dsp1_07,telescope,trashcan,113.6227715,post
+670,dsp1_09,plant,well,101.3810242,post
+670,dsp1_21,wheelbarrow,stove,33.32060338,post
+670,dsp1_10,plant,piano,17.034209,post
